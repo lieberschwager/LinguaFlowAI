@@ -7005,3 +7005,9 @@
 - .github/workflows/android.yml
 - DEVLOG.md
 
+## 📅 2025-09-08 – 22:22
+🔖 Commit: *CI: stabile APK-Erzeugung ohne Wrapper*
+📂 Geänderte Dateien:
+- .github/workflows/android.yml
+- DEVLOG.md
+
