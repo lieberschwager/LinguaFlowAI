@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="300" viewBox="0 0 300 300">
+  <!-- Hintergrund transparent -->
+  <rect x="0" y="0" width="300" height="300" fill="#00000000"/>
+
+  <!-- Sprechblasen-Kreis -->
+  <circle cx="150" cy="100" r="60" fill="#00A8E8"/>
+
+  <!-- Fließendes Pfad-Muster -->
+  <path d="M120,100 C130,80 170,120 180,100" stroke="white" stroke-width="6" fill="none" stroke-linecap="round"/>
+
+  <!-- Markenname -->
+  <text x="50%" y="200" text-anchor="middle" font-size="28" font-family="Segoe UI, sans-serif" fill="#222">
+    LinguaFlowAI
+  </text>
+</svg>

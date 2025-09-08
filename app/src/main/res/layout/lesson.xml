@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp"
+    android:background="@color/backgroundLight">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal">
+
+        <TextView
+            android:id="@+id/englishText"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Englisch:"
+            android:textSize="22sp"
+            android:textStyle="bold"
+            android:textColor="@color/textDark"
+            android:layout_marginBottom="8dp"
+            android:contentDescription="Englisches Wort anzeigen" />
+
+        <TextView
+            android:id="@+id/germanText"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Deutsch:"
+            android:textSize="22sp"
+            android:textStyle="bold"
+            android:textColor="@color/textDark"
+            android:layout_marginBottom="8dp"
+            android:contentDescription="Deutsches Wort anzeigen" />
+
+        <TextView
+            android:id="@+id/exampleText"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Beispiel:"
+            android:textSize="18sp"
+            android:textColor="@color/textDark"
+            android:layout_marginBottom="16dp"
+            android:contentDescription="Beispielsatz anzeigen" />
+
+        <TextView
+            android:id="@+id/progressText"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Gelernt: 0×"
+            android:textSize="16sp"
+            android:textColor="@color/textDark"
+            android:layout_marginBottom="16dp"
+            android:contentDescription="Lernfortschritt anzeigen" />
+
+        <Button
+            android:id="@+id/speakButton"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Vorlesen"
+            android:textSize="18sp"
+            android:background="@drawable/button_primary"
+            android:textColor="@color/white"
+            android:layout_marginBottom="16dp"
+            android:contentDescription="Wort vorlesen" />
+
+        <Button
+            android:id="@+id/favoriteButton"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Zu Favoriten"
+            android:textSize="18sp"
+            android:background="@drawable/button_primary"
+            android:textColor="@color/white"
+            android:layout_marginBottom="24dp"
+            android:contentDescription="Favorit hinzufügen oder entfernen" />
+
+    </LinearLayout>
+</ScrollView>

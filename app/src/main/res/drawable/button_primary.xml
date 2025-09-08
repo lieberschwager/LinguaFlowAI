@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Zustand: gedrückt -->
+    <item android:state_pressed="true">
+        <shape android:shape="rectangle">
+            <solid android:color="#1565C0" /> <!-- dunkleres Blau für Feedback -->
+            <corners android:radius="14dp" />
+            <padding
+                android:left="12dp"
+                android:right="12dp"
+                android:top="8dp"
+                android:bottom="8dp" />
+        </shape>
+    </item>
+
+    <!-- Standardzustand -->
+    <item>
+        <shape android:shape="rectangle">
+            <solid android:color="#2196F3" /> <!-- Primärfarbe -->
+            <corners android:radius="14dp" />
+            <padding
+                android:left="12dp"
+                android:right="12dp"
+                android:top="8dp"
+                android:bottom="8dp" />
+        </shape>
+    </item>
+
+</selector>

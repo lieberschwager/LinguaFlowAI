@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/backgroundLight">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="16dp">
+
+        <ProgressBar
+            android:id="@+id/loadingBar"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:visibility="gone"
+            android:layout_marginBottom="16dp"
+            android:contentDescription="Ladeanzeige für Sprachen" />
+
+        <TextView
+            android:id="@+id/statusText"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Sprachen werden geladen..."
+            android:textColor="@color/textDark"
+            android:textSize="16sp"
+            android:visibility="gone"
+            android:layout_marginBottom="8dp"
+            android:contentDescription="Statusanzeige für Sprachabruf" />
+
+        <Button
+            android:id="@+id/retryButton"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Erneut versuchen"
+            android:visibility="gone"
+            android:background="@drawable/button_primary"
+            android:textColor="@color/white"
+            android:layout_marginBottom="16dp"
+            android:contentDescription="Sprachabruf erneut starten" />
+
+        <Spinner
+            android:id="@+id/languageSpinner"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:spinnerMode="dropdown"
+            android:layout_marginBottom="16dp"
+            android:contentDescription="Sprachauswahl" />
+
+        <ListView
+            android:id="@+id/lessonList"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="16dp"
+            android:contentDescription="Liste der Lektionen" />
+
+        <Button
+            android:id="@+id/favoritesButton"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Favoriten anzeigen"
+            android:background="@drawable/button_primary"
+            android:textColor="@color/white"
+            android:layout_marginBottom="12dp"
+            android:contentDescription="Favoriten öffnen" />
+
+        <Button
+            android:id="@+id/progressButton"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Lernfortschritt"
+            android:background="@drawable/button_primary"
+            android:textColor="@color/white"
+            android:layout_marginBottom="12dp"
+            android:contentDescription="Lernfortschritt anzeigen" />
+
+        <Button
+            android:id="@+id/quizButton"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Quiz starten"
+            android:background="@drawable/button_primary"
+            android:textColor="@color/white"
+            android:layout_marginBottom="12dp"
+            android:contentDescription="Quiz starten" />
+
+        <Button
+            android:id="@+id/profileButton"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Profil anzeigen"
+            android:background="@drawable/button_primary"
+            android:textColor="@color/white"
+            android:layout_marginBottom="12dp"
+            android:contentDescription="Profil öffnen" />
+
+    </LinearLayout>
+</ScrollView>

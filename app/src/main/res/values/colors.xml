@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Primärfarben -->
+    <color name="colorPrimary">#3F51B5</color>         <!-- Indigo 500 -->
+    <color name="colorPrimaryDark">#303F9F</color>     <!-- Indigo 700 -->
+    <color name="colorAccent">#FF4081</color>          <!-- Pink A200 -->
+
+    <!-- Hintergrund & Text -->
+    <color name="backgroundLight">#FFFFFF</color>      <!-- Weißer Hintergrund -->
+    <color name="textDark">#212121</color>             <!-- Dunkler Text -->
+
+    <!-- Neutrale Farben -->
+    <color name="white">#FFFFFF</color>
+
+    <!-- Zusätzliche UI-Farben (optional erweiterbar) -->
+    <color name="buttonPressed">#1565C0</color>        <!-- Blau für gedrückte Buttons -->
+    <color name="dividerGray">#BDBDBD</color>          <!-- Für Listen-Trennlinien -->
+
+</resources>
