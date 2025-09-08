@@ -11,6 +11,7 @@ buildscript {
 apply plugin: 'com.android.application'
 
 android {
+    namespace 'com.linguaflow.myapp'
     compileSdkVersion 30
 
     defaultConfig {
