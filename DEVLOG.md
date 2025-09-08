@@ -7060,3 +7060,9 @@
 - DEVLOG.md
 - app/src/main/res/values/styles.xml
 
+## 📅 2025-09-08 – 23:38
+🔖 Commit: *Fix: AndroidX aktiviert via gradle.properties*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- gradle.properties
+
