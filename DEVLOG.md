@@ -7054,3 +7054,9 @@
 - DEVLOG.md
 - app/build.gradle
 
+## 📅 2025-09-08 – 23:29
+🔖 Commit: *Fix: AppCompat-kompatibles Theme und Styles ergänzt*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- app/src/main/res/values/styles.xml
+
