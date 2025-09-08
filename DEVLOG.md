@@ -6967,3 +6967,9 @@
 - gradlew
 - gradlew.bat
 
+## 📅 2025-09-08 – 13:54
+🔖 Commit: *Fix: gradlew ausführbar gemacht für CI*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- gradlew
+
