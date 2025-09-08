@@ -6954,3 +6954,9 @@
 - .github/workflows/android.yml
 - DEVLOG.md
 
+## 📅 2025-09-08 – 13:45
+🔖 Commit: *Add: Gradle Wrapper JAR für CI Build*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- gradle/wrapper/gradle-wrapper.jar
+
