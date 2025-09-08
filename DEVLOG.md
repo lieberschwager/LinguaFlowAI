@@ -13,4 +13,6926 @@
 🛠️ Nächster Schritt:
 - GitHub-Repo initialisieren
 - GitHub Actions für APK-Build einrichten
-- README mit Logo und Projektbeschreibung ergänzen
+- README mit Logo und Projektbeschreibung ergänzen## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:21
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:22
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
+## 📅 2025-09-08 – 12:23
+🔖 Commit: *Testlauf: Alles korrekt eingerichtet*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- finaltest.java
+
