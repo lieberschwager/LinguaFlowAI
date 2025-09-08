@@ -7078,3 +7078,9 @@
 - DEVLOG.md
 - app/src/main/AndroidManifest.xml
 
+## 📅 2025-09-08 – 23:56
+🔖 Commit: *Fix: Icon-Attribut vollständig entfernt, Manifest repariert*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- app/src/main/AndroidManifest.xml
+
