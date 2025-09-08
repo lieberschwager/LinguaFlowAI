@@ -169,11 +169,7 @@ public class LessonImportActivity extends FragmentActivity {
             int repetitions = obj.getInt("repetitions");
             long lastReviewed = obj.getLong("lastReviewed");
 
-            Map<String, String> data = new HashMap<>();
-            data.put("german", german);
-            data.put("example", example);
-            VocabularyCache.save(this, word, data);
-
+            VocabularyCache.save(this, word, german, example);
             ProgressTracker.set(this, word, repetitions, lastReviewed);
 
         } catch (Exception e) {
