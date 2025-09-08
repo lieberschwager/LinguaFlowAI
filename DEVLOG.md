@@ -7048,3 +7048,9 @@
 📂 Geänderte Dateien:
 - DEVLOG.md
 
+## 📅 2025-09-08 – 23:24
+🔖 Commit: *Fix: AppCompat eingebunden für Style-Fehler*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- app/build.gradle
+
