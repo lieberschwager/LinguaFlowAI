@@ -8,29 +8,9 @@ buildscript {
     }
 }
 
-apply plugin: 'com.android.application'
-
-android {
-    namespace 'com.linguaflow.myapp'
-    compileSdkVersion 30
-
-    defaultConfig {
-        applicationId "com.linguaflow.myapp"
-        minSdkVersion 21
-        targetSdkVersion 30
-        versionCode 1
-        versionName "1.0"
+allprojects {
+    repositories {
+        google()
+        mavenCentral()
     }
-
-    buildTypes {
-        release {
-            minifyEnabled false
-            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
-        }
-    }
-}
-
-repositories {
-    google()
-    mavenCentral()
 }

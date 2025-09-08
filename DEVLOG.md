@@ -7023,3 +7023,9 @@
 - .github/workflows/android.yml
 - DEVLOG.md
 
+## 📅 2025-09-08 – 22:40
+🔖 Commit: *Fix: Namespace & Plugin für Gradle 8.0*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- build.gradle
+
