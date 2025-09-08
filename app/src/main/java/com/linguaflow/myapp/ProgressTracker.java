@@ -11,6 +11,15 @@ public class ProgressTracker {
 
     private static final String PREF_NAME = "progress_tracker";
 
+    // Neue Methode für direkten Set-Aufruf
+    public static void set(Context context, String word, int repetitions, long lastReviewed) {
+        SharedPreferences prefs = context.getSharedPreferences(PREF_NAME, Context.MODE_PRIVATE);
+        SharedPreferences.Editor editor = prefs.edit();
+        editor.putInt(word + "_count", repetitions);
+        editor.putLong(word + "_last", lastReviewed);
+        editor.apply();
+    }
+
     public static void increment(Context context, String word) {
         SharedPreferences prefs = context.getSharedPreferences(PREF_NAME, Context.MODE_PRIVATE);
         int count = prefs.getInt(word + "_count", 0) + 1;

@@ -7105,3 +7105,9 @@
 - app/src/main/res/layout/lesson_import.xml
 - app/src/main/res/layout/lesson_review.xml
 
+## 📅 2025-09-09 – 01:05
+🔖 Commit: *Fix: saveEntry angepasst für korrekten save()-Aufruf, VocabularyCache aktualisiert*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- app/src/main/java/com/linguaflow/myapp/LessonImportActivity.java
+
