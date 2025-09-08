@@ -7029,3 +7029,11 @@
 - DEVLOG.md
 - build.gradle
 
+## 📅 2025-09-08 – 22:57
+🔖 Commit: *Struktur fix: Root, Modul und Settings angepasst*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- app/build.gradle
+- build.gradle
+- settings.gradle
+
