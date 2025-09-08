@@ -7037,3 +7037,9 @@
 - build.gradle
 - settings.gradle
 
+## 📅 2025-09-08 – 23:14
+🔖 Commit: *Fix: ungültige SVG-Datei entfernt*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- app/src/main/res/drawable/linguaflowai_logo.svg
+
