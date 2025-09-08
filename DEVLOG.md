@@ -6973,3 +6973,9 @@
 - DEVLOG.md
 - gradlew
 
+## 📅 2025-09-08 – 14:37
+🔖 Commit: *Fix: funktionierende gradle-wrapper.jar für CI hinzugefügt*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- gradle/wrapper/gradle-wrapper.jar
+
