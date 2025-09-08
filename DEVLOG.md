@@ -6960,3 +6960,10 @@
 - DEVLOG.md
 - gradle/wrapper/gradle-wrapper.jar
 
+## 📅 2025-09-08 – 13:51
+🔖 Commit: *Add: Gradle Wrapper-Skripte für CI Build*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- gradlew
+- gradlew.bat
+
