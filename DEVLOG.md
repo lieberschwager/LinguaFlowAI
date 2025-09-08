@@ -6999,3 +6999,9 @@
 - DEVLOG.md
 - gradle/wrapper/wrapper.b64
 
+## 📅 2025-09-08 – 22:15
+🔖 Commit: *CI: direkte Gradle-Nutzung ohne Wrapper*
+📂 Geänderte Dateien:
+- .github/workflows/android.yml
+- DEVLOG.md
+
