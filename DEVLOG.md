@@ -7072,3 +7072,9 @@
 - DEVLOG.md
 - app/build.gradle
 
+## 📅 2025-09-08 – 23:52
+🔖 Commit: *Fix: Icon-Referenz auskommentiert für Build-Freigabe*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- app/src/main/AndroidManifest.xml
+
