@@ -34,7 +34,7 @@
         android:layout_width="match_parent"
         android:layout_height="0dp"
         android:layout_weight="1"
-        android:divider="@color/dividerLight"
+        android:divider="@color/divider_light"
         android:dividerHeight="1dp"
         android:background="@color/white"
         android:layout_marginBottom="16dp" />
