@@ -7084,3 +7084,11 @@
 - DEVLOG.md
 - app/src/main/AndroidManifest.xml
 
+## 📅 2025-09-09 – 00:14
+🔖 Commit: *Fix: fehlende Ressourcen ergänzt für Layouts*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- app/src/main/res/color/dividerLight.xml
+- app/src/main/res/drawable/button_secondary.xml
+- app/src/main/res/drawable/spinner_background.xml
+
