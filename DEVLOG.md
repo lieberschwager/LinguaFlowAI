@@ -6979,3 +6979,9 @@
 - DEVLOG.md
 - gradle/wrapper/gradle-wrapper.jar
 
+## 📅 2025-09-08 – 15:17
+🔖 Commit: *Fix: echte gradle-wrapper.jar aus Gradle-Repo übernommen*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- gradle/wrapper/gradle-wrapper.jar
+
