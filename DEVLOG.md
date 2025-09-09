@@ -7243,3 +7243,14 @@ Die App ist modular aufgebaut und gliedert sich in folgende Komponenten:
 - DEVLOG.md
 - app/src/main/java/com/linguaflow/myapp/QuizActivity.java
 
+## 📅 2025-09-09 – 12:48
+🔖 Commit: *🧱 Fix: Ressourcen & Klassenstruktur für fehlerfreien Build*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- app/src/main/java/com/linguaflow/myapp/ProgressTracker.java
+- app/src/main/java/com/linguaflow/myapp/VocabularyCache.java
+- app/src/main/java/com/linguaflow/myapp/VocabularyCacheHelper.java
+- app/src/main/res/layout/activity_lesson_stats.xml
+- app/src/main/res/layout/activity_quiz.xml
+- app/src/main/res/layout/activity_quiz_result.xml
+
