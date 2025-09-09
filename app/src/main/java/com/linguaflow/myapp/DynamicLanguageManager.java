@@ -1,43 +1,43 @@
 package com.linguaflow.myapp;
 
 import android.content.Context;
-import android.content.SharedPreferences;
-import android.widget.ArrayAdapter;
-import android.widget.Spinner;
-import java.util.ArrayList;
-import java.util.HashSet;
-import java.util.Set;
+import java.util.HashMap;
+import java.util.Locale;
+import java.util.Map;
 
-/**
- * Führt die automatische Sprachintegration durch.
- * Erkennt neue Sprachen, aktualisiert die UI und speichert den Zustand.
- */
 public class DynamicLanguageManager {
 
-    private static final String PREF_KEY = "known_languages";
+    private static final Map<String, Map<String, String>> translations = new HashMap<>();
 
-    public static void updateLanguages(Context context, Spinner spinner, ArrayList<String> fetchedLanguages) {
-        if (fetchedLanguages == null || fetchedLanguages.isEmpty()) return;
+    static {
+        // Deutsch
+        Map<String, String> de = new HashMap<>();
+        de.put("favorites_title", "Deine Favoriten");
+        de.put("favorites_empty", "Keine Favoriten gefunden.");
+        de.put("stats_title", "Lernstatistik");
+        de.put("stats_empty", "Kein Fortschritt erfasst.");
+        translations.put("de", de);
 
-        SharedPreferences prefs = context.getSharedPreferences("language_state", Context.MODE_PRIVATE);
-        Set<String> known = prefs.getStringSet(PREF_KEY, new HashSet<>());
+        // Englisch
+        Map<String, String> en = new HashMap<>();
+        en.put("favorites_title", "Your Favorites");
+        en.put("favorites_empty", "No favorites found.");
+        en.put("stats_title", "Learning Stats");
+        en.put("stats_empty", "No progress recorded yet.");
+        translations.put("en", en);
 
-        Set<String> updated = new HashSet<>(fetchedLanguages);
-        boolean hasNew = !updated.equals(known);
-
-        if (hasNew) {
-            prefs.edit().putStringSet(PREF_KEY, updated).apply();
-        }
-
-        ArrayAdapter<String> adapter = new ArrayAdapter<>(context,
-                android.R.layout.simple_spinner_item, fetchedLanguages);
-        adapter.setDropDownViewResource(android.R.layout.simple_spinner_dropdown_item);
-        spinner.setAdapter(adapter);
+        // Französisch (optional)
+        Map<String, String> fr = new HashMap<>();
+        fr.put("favorites_title", "Vos favoris");
+        fr.put("favorites_empty", "Aucun favori trouvé.");
+        fr.put("stats_title", "Statistiques d'apprentissage");
+        fr.put("stats_empty", "Aucun progrès enregistré.");
+        translations.put("fr", fr);
     }
 
-    public static boolean hasNewLanguages(Context context, ArrayList<String> fetchedLanguages) {
-        SharedPreferences prefs = context.getSharedPreferences("language_state", Context.MODE_PRIVATE);
-        Set<String> known = prefs.getStringSet(PREF_KEY, new HashSet<>());
-        return !new HashSet<>(fetchedLanguages).equals(known);
+    public static String getText(Context context, String key) {
+        String lang = LanguageFetcher.getActiveLanguage(context);
+        Map<String, String> langMap = translations.getOrDefault(lang, translations.get("en"));
+        return langMap.getOrDefault(key, "[" + key + "]");
     }
 }

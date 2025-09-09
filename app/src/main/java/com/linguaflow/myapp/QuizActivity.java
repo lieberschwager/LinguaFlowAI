@@ -1,22 +1,19 @@
 package com.linguaflow.myapp;
 
 import android.app.Activity;
-import android.graphics.Color;
 import android.os.Bundle;
-import android.view.View;
 import android.widget.Button;
 import android.widget.TextView;
+import java.util.Collections;
 import java.util.List;
 
 public class QuizActivity extends Activity {
 
-    private TextView questionText;
-    private Button[] optionButtons = new Button[4];
-    private TextView resultText;
-    private List<QuizGenerator.QuizQuestion> quizList;
-    private int currentIndex = 0;
-    private int score = 0;
-    private boolean answered = false;
+    private TextView questionText, feedbackText;
+    private Button optionA, optionB, optionC, optionD;
+
+    private String correctAnswer;
+    private String englishWord;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -24,56 +21,50 @@ public class QuizActivity extends Activity {
         setContentView(R.layout.quiz);
 
         questionText = findViewById(R.id.questionText);
-        optionButtons[0] = findViewById(R.id.option1);
-        optionButtons[1] = findViewById(R.id.option2);
-        optionButtons[2] = findViewById(R.id.option3);
-        optionButtons[3] = findViewById(R.id.option4);
-        resultText = findViewById(R.id.resultText);
+        feedbackText = findViewById(R.id.feedbackText);
+        optionA = findViewById(R.id.optionA);
+        optionB = findViewById(R.id.optionB);
+        optionC = findViewById(R.id.optionC);
+        optionD = findViewById(R.id.optionD);
 
-        quizList = QuizGenerator.generateFromCache(this);
-        showNextQuestion();
-    }
-
-    private void showNextQuestion() {
-        if (currentIndex >= quizList.size()) {
-            questionText.setText("Quiz beendet! Punkte: " + score + "/" + quizList.size());
-            for (Button btn : optionButtons) {
-                btn.setVisibility(View.GONE);
-            }
+        List<String> words = VocabularyFetcher.getAllEnglishWords(this);
+        if (words.isEmpty()) {
+            questionText.setText("No vocabulary available.");
             return;
         }
 
-        QuizGenerator.QuizQuestion question = quizList.get(currentIndex);
-        questionText.setText(question.questionText);
-        answered = false;
+        Collections.shuffle(words);
+        englishWord = words.get(0);
+        correctAnswer = VocabularyCache.getGerman(this, englishWord);
 
-        for (int i = 0; i < 4; i++) {
-            optionButtons[i].setText(question.options.get(i));
-            optionButtons[i].setBackgroundColor(Color.LTGRAY);
-            optionButtons[i].setEnabled(true);
+        questionText.setText("What is the German word for '" + englishWord + "'?");
 
-            final int index = i;
-            optionButtons[i].setOnClickListener(v -> {
-                if (answered) return;
-                answered = true;
+        List<String> options = VocabularyFetcher.getAllEnglishWords(this).subList(0, Math.min(4, words.size()));
+        Collections.shuffle(options);
 
-                for (Button btn : optionButtons) {
-                    btn.setEnabled(false);
-                }
+        // Ensure correct answer is among options
+        if (!options.contains(englishWord)) {
+            options.set(0, englishWord);
+        }
 
-                if (index == question.correctIndex) {
-                    optionButtons[index].setBackgroundColor(Color.GREEN);
-                    resultText.setText("Richtig!");
-                    score++;
-                } else {
-                    optionButtons[index].setBackgroundColor(Color.RED);
-                    optionButtons[question.correctIndex].setBackgroundColor(Color.GREEN);
-                    resultText.setText("Falsch!");
-                }
+        List<String> germanOptions = options.stream()
+            .map(w -> VocabularyCache.getGerman(this, w))
+            .toList();
 
-                currentIndex++;
-                optionButtons[0].postDelayed(this::showNextQuestion, 1500);
-            });
+        Button[] buttons = {optionA, optionB, optionC, optionD};
+        for (int i = 0; i < germanOptions.size(); i++) {
+            buttons[i].setText(germanOptions.get(i));
+            String selected = germanOptions.get(i);
+            buttons[i].setOnClickListener(v -> checkAnswer(selected));
+        }
+    }
+
+    private void checkAnswer(String selected) {
+        if (selected.equals(correctAnswer)) {
+            feedbackText.setText("✅ Correct!");
+            ProgressTracker.incrementProgress(this, englishWord);
+        } else {
+            feedbackText.setText("❌ Incorrect. Correct answer: " + correctAnswer);
         }
     }
 }

@@ -1,79 +1,43 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/lessonLayout"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:padding="16dp"
-    android:background="@color/backgroundLight">
+    android:orientation="vertical"
+    android:padding="24dp"
+    android:gravity="center"
+    android:background="#FFFFFF">
 
-    <LinearLayout
-        android:orientation="vertical"
-        android:layout_width="match_parent"
+    <TextView
+        android:id="@+id/wordText"
+        android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:gravity="center_horizontal">
+        android:text="Word"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        android:layout_marginBottom="16dp" />
 
-        <TextView
-            android:id="@+id/englishText"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:text="Englisch:"
-            android:textSize="22sp"
-            android:textStyle="bold"
-            android:textColor="@color/textDark"
-            android:layout_marginBottom="8dp"
-            android:contentDescription="Englisches Wort anzeigen" />
+    <TextView
+        android:id="@+id/translationText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Translation"
+        android:textSize="20sp"
+        android:layout_marginBottom="16dp" />
 
-        <TextView
-            android:id="@+id/germanText"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:text="Deutsch:"
-            android:textSize="22sp"
-            android:textStyle="bold"
-            android:textColor="@color/textDark"
-            android:layout_marginBottom="8dp"
-            android:contentDescription="Deutsches Wort anzeigen" />
+    <TextView
+        android:id="@+id/exampleText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Example"
+        android:textSize="18sp"
+        android:layout_marginBottom="24dp" />
 
-        <TextView
-            android:id="@+id/exampleText"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:text="Beispiel:"
-            android:textSize="18sp"
-            android:textColor="@color/textDark"
-            android:layout_marginBottom="16dp"
-            android:contentDescription="Beispielsatz anzeigen" />
-
-        <TextView
-            android:id="@+id/progressText"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:text="Gelernt: 0×"
-            android:textSize="16sp"
-            android:textColor="@color/textDark"
-            android:layout_marginBottom="16dp"
-            android:contentDescription="Lernfortschritt anzeigen" />
-
-        <Button
-            android:id="@+id/speakButton"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:text="Vorlesen"
-            android:textSize="18sp"
-            android:background="@drawable/button_primary"
-            android:textColor="@color/white"
-            android:layout_marginBottom="16dp"
-            android:contentDescription="Wort vorlesen" />
-
-        <Button
-            android:id="@+id/favoriteButton"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:text="Zu Favoriten"
-            android:textSize="18sp"
-            android:background="@drawable/button_primary"
-            android:textColor="@color/white"
-            android:layout_marginBottom="24dp"
-            android:contentDescription="Favorit hinzufügen oder entfernen" />
-
-    </LinearLayout>
-</ScrollView>
+    <TextView
+        android:id="@+id/loadingText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Loading..."
+        android:textSize="16sp"
+        android:textColor="#888888" />
+</LinearLayout>

@@ -3,46 +3,37 @@ package com.linguaflow.myapp;
 import android.content.Context;
 import android.content.SharedPreferences;
 
-/**
- * Verfolgt den Lernfortschritt pro Vokabel.
- * Speichert Wiederholungsanzahl und letzten Zeitpunkt.
- */
 public class ProgressTracker {
 
-    private static final String PREF_NAME = "progress_tracker";
+    private static final String PREF_NAME = "progress";
 
-    // Neue Methode für direkten Set-Aufruf
-    public static void set(Context context, String word, int repetitions, long lastReviewed) {
+    public static void incrementProgress(Context context, String english) {
+        if (english == null || english.trim().isEmpty()) return;
+        String lang = LanguageFetcher.getActiveLanguage(context);
+        String key = english.trim() + "_" + lang;
         SharedPreferences prefs = context.getSharedPreferences(PREF_NAME, Context.MODE_PRIVATE);
-        SharedPreferences.Editor editor = prefs.edit();
-        editor.putInt(word + "_count", repetitions);
-        editor.putLong(word + "_last", lastReviewed);
-        editor.apply();
+        int current = prefs.getInt(key, 0);
+        prefs.edit().putInt(key, current + 1).apply();
     }
 
-    public static void increment(Context context, String word) {
+    public static int getProgress(Context context, String english) {
+        if (english == null || english.trim().isEmpty()) return 0;
+        String lang = LanguageFetcher.getActiveLanguage(context);
+        String key = english.trim() + "_" + lang;
         SharedPreferences prefs = context.getSharedPreferences(PREF_NAME, Context.MODE_PRIVATE);
-        int count = prefs.getInt(word + "_count", 0) + 1;
-        long timestamp = System.currentTimeMillis();
-
-        SharedPreferences.Editor editor = prefs.edit();
-        editor.putInt(word + "_count", count);
-        editor.putLong(word + "_last", timestamp);
-        editor.apply();
+        return prefs.getInt(key, 0);
     }
 
-    public static int getCount(Context context, String word) {
+    public static void resetProgress(Context context, String english) {
+        if (english == null || english.trim().isEmpty()) return;
+        String lang = LanguageFetcher.getActiveLanguage(context);
+        String key = english.trim() + "_" + lang;
         SharedPreferences prefs = context.getSharedPreferences(PREF_NAME, Context.MODE_PRIVATE);
-        return prefs.getInt(word + "_count", 0);
+        prefs.edit().remove(key).apply();
     }
 
-    public static long getLastTimestamp(Context context, String word) {
+    public static void clearAll(Context context) {
         SharedPreferences prefs = context.getSharedPreferences(PREF_NAME, Context.MODE_PRIVATE);
-        return prefs.getLong(word + "_last", 0);
-    }
-
-    public static boolean isMastered(Context context, String word) {
-        int count = getCount(context, word);
-        return count >= 5; // Schwelle für „gelernt“
+        prefs.edit().clear().apply();
     }
 }

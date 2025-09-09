@@ -1,77 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/statsLayout"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:orientation="vertical"
     android:padding="24dp"
-    android:background="@color/backgroundLight">
+    android:gravity="center"
+    android:background="#FFFFFF">
 
-    <LinearLayout
-        android:layout_width="match_parent"
+    <TextView
+        android:id="@+id/titleText"
+        android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:orientation="vertical"
-        android:gravity="center_horizontal">
+        android:text="Learning Stats"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:layout_marginBottom="24dp" />
 
-        <!-- Gesamtanzahl -->
-        <TextView
-            android:id="@+id/totalText"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="Gesamt: 0"
-            android:textSize="20sp"
-            android:textStyle="bold"
-            android:textColor="@color/textDark"
-            android:layout_marginBottom="24dp" />
-
-        <!-- Verlaufsgrafik -->
-        <TextView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="📈 Verlauf der letzten 7 Tage"
-            android:textSize="18sp"
-            android:textStyle="bold"
-            android:textColor="@color/textDark"
-            android:layout_marginBottom="16dp" />
-
-        <LinearLayout
-            android:id="@+id/chartContainer"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:orientation="vertical"
-            android:layout_marginBottom="32dp" />
-
-        <!-- Filter-Auswahl -->
-        <Spinner
-            android:id="@+id/filterSpinner"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_marginBottom="16dp"
-            android:spinnerMode="dropdown"
-            android:background="@drawable/spinner_background"
-            android:contentDescription="Filter für Exportauswahl" />
-
-        <!-- Datumsauswahl -->
-        <Button
-            android:id="@+id/dateButton"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:text="📅 Datum wählen"
-            android:textSize="16sp"
-            android:background="@drawable/button_secondary"
-            android:textColor="@color/white"
-            android:layout_marginBottom="16dp"
-            android:contentDescription="Wähle ein Startdatum für den Export" />
-
-        <!-- Export-Button -->
-        <Button
-            android:id="@+id/exportButton"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:text="📤 Gefilterten Fortschritt exportieren"
-            android:textSize="16sp"
-            android:background="@drawable/button_primary"
-            android:textColor="@color/white"
-            android:layout_marginBottom="24dp"
-            android:contentDescription="Exportiere deinen Lernfortschritt nach Filter und Datum" />
-
-    </LinearLayout>
-</ScrollView>
+    <TextView
+        android:id="@+id/statsText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="No progress recorded yet."
+        android:textSize="16sp"
+        android:textColor="#333333" />
+</LinearLayout>

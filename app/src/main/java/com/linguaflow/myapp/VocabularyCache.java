@@ -2,35 +2,29 @@ package com.linguaflow.myapp;
 
 import android.content.Context;
 import android.content.SharedPreferences;
-import java.util.HashMap;
-import java.util.Map;
 
-/**
- * Lokaler Cache für Vokabeln und Übersetzungen.
- * Verhindert doppelte API-Abfragen und ermöglicht Offline-Nutzung.
- */
 public class VocabularyCache {
 
-    private static final String PREF_NAME = "vocabulary_cache";
+    private static final String PREF_NAME = "vocabulary";
 
-    public static void save(Context context, String english, String german, String example) {
+    public static void saveTranslation(Context context, String english, String translated) {
+        if (english == null || translated == null || english.trim().isEmpty() || translated.trim().isEmpty()) return;
+        String lang = LanguageFetcher.getActiveLanguage(context);
+        String key = english.trim() + "_" + lang;
         SharedPreferences prefs = context.getSharedPreferences(PREF_NAME, Context.MODE_PRIVATE);
-        SharedPreferences.Editor editor = prefs.edit();
-        editor.putString(english + "_de", german);
-        editor.putString(english + "_ex", example);
-        editor.apply();
+        prefs.edit().putString(key, translated.trim()).apply();
     }
 
-    public static boolean contains(Context context, String english) {
+    public static String getGerman(Context context, String english) {
+        if (english == null || english.trim().isEmpty()) return null;
+        String lang = LanguageFetcher.getActiveLanguage(context);
+        String key = english.trim() + "_" + lang;
         SharedPreferences prefs = context.getSharedPreferences(PREF_NAME, Context.MODE_PRIVATE);
-        return prefs.contains(english + "_de") && prefs.contains(english + "_ex");
+        return prefs.getString(key, null);
     }
 
-    public static Map<String, String> load(Context context, String english) {
+    public static void clearAll(Context context) {
         SharedPreferences prefs = context.getSharedPreferences(PREF_NAME, Context.MODE_PRIVATE);
-        Map<String, String> result = new HashMap<>();
-        result.put("german", prefs.getString(english + "_de", ""));
-        result.put("example", prefs.getString(english + "_ex", ""));
-        return result;
+        prefs.edit().clear().apply();
     }
 }

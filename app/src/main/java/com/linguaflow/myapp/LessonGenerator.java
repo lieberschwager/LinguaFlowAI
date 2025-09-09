@@ -1,49 +1,53 @@
 package com.linguaflow.myapp;
 
 import android.content.Context;
-import java.util.List;
-import java.util.Map;
+import android.os.Handler;
+import android.os.Looper;
 
-/**
- * Erstellt automatisch Lektionen aus englischen Vokabeln.
- * Nutzt VocabularyFetcher + VocabularyCache für Effizienz.
- */
 public class LessonGenerator {
 
-    public interface LessonCallback {
-        void onLessonReady(Lesson lesson);
+    public interface Callback {
+        void onGenerated(Lesson lesson);
     }
 
     public static class Lesson {
-        public final String english;
-        public final String german;
-        public final String example;
+        public String german;
+        public String example;
 
-        public Lesson(String english, String german, String example) {
-            this.english = english;
+        public Lesson(String german, String example) {
             this.german = german;
             this.example = example;
         }
     }
 
-    public static void generate(Context context, String englishWord, LessonCallback callback) {
-        if (VocabularyCache.contains(context, englishWord)) {
-            Map<String, String> cached = VocabularyCache.load(context, englishWord);
-            Lesson lesson = new Lesson(englishWord, cached.get("german"), cached.get("example"));
-            callback.onLessonReady(lesson);
-            return;
-        }
+    public static void generate(Context context, String englishWord, Callback callback) {
+        new Thread(() -> {
+            String german = VocabularyCache.getGerman(context, englishWord);
+            String example = ExampleGenerator.getExample(context, englishWord);
 
-        new VocabularyFetcher((translation, example) -> {
-            Lesson lesson = new Lesson(englishWord, translation, example);
-            VocabularyCache.save(context, englishWord, translation, example);
-            callback.onLessonReady(lesson);
-        }).execute(englishWord);
+            if (german == null || german.trim().isEmpty()) {
+                // Fallback: einfache Übersetzung simulieren
+                german = simulateTranslation(englishWord);
+                VocabularyCache.saveTranslation(context, englishWord, german);
+            }
+
+            if (example == null || example.trim().isEmpty()) {
+                example = simulateExample(englishWord, german);
+            }
+
+            Lesson lesson = new Lesson(german, example);
+
+            new Handler(Looper.getMainLooper()).post(() -> {
+                callback.onGenerated(lesson);
+            });
+        }).start();
     }
 
-    public static void generateBatch(Context context, List<String> englishWords, LessonCallback callback) {
-        for (String word : englishWords) {
-            generate(context, word, callback);
-        }
+    private static String simulateTranslation(String word) {
+        return "DE_" + word; // Platzhalter-Übersetzung
+    }
+
+    private static String simulateExample(String english, String german) {
+        return "I like " + english + " → Ich mag " + german;
     }
 }

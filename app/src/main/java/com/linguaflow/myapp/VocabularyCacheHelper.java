@@ -3,29 +3,29 @@ package com.linguaflow.myapp;
 import android.content.Context;
 import android.content.SharedPreferences;
 import java.util.ArrayList;
-import java.util.HashSet;
+import java.util.Collections;
 import java.util.List;
-import java.util.Map;
-import java.util.Set;
 
-/**
- * Hilfsklasse zum Auslesen aller gespeicherten Vokabeln aus dem Cache.
- * Funktioniert sprachunabhängig.
- */
 public class VocabularyCacheHelper {
 
-    public static List<String> getAllCachedWords(Context context) {
-        SharedPreferences prefs = context.getSharedPreferences("vocabulary_cache", Context.MODE_PRIVATE);
-        Map<String, ?> allEntries = prefs.getAll();
-        Set<String> baseWords = new HashSet<>();
+    public static List<String> getRandomTranslations(Context context, String excludeWord, int count) {
+        SharedPreferences prefs = context.getSharedPreferences("vocabulary", Context.MODE_PRIVATE);
+        List<String> allTranslations = new ArrayList<>();
 
-        for (String key : allEntries.keySet()) {
-            if (key.contains("_")) {
-                String base = key.substring(0, key.indexOf("_"));
-                baseWords.add(base);
+        for (String key : prefs.getAll().keySet()) {
+            if (!key.equals(excludeWord)) {
+                String value = prefs.getString(key, null);
+                if (value != null && !value.trim().isEmpty()) {
+                    allTranslations.add(value.trim());
+                }
             }
         }
 
-        return new ArrayList<>(baseWords);
+        Collections.shuffle(allTranslations);
+        if (allTranslations.size() > count) {
+            return allTranslations.subList(0, count);
+        } else {
+            return allTranslations;
+        }
     }
 }

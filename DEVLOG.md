@@ -7136,3 +7136,58 @@
 - app/build.gradle
 - app/src/main/res/color/divider_high.xml
 
+## 📅 2025-09-09 – 08:54
+🔖 Commit: *Fix: Lint-konforme Farbdefinitionen für divider_high und divider_light*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- app/src/main/res/color/divider_high.xml
+- app/src/main/res/color/divider_light.xml
+## 🧠 Entwicklungsstand & Architektur (Stand: 09.09.2025)
+
+### 🔹 Projektstruktur: `com.linguaflow.myapp`
+
+Die App ist modular aufgebaut und gliedert sich in folgende Komponenten:
+
+#### 📱 UI & Navigation
+- `SplashActivity` – Startanimation mit Übergang zum Startscreen *(aktuell: Dauer wird auf 7s verlängert)*
+- `StartActivity` – Begrüßung mit Bounce-Button *(nächster Schritt zur Verfeinerung)*
+- `LessonActivity`, `LessonImportActivity`, `LessonReviewActivity`, `LessonStatsActivity` – Lektionen & Fortschritt
+- `FavoritesActivity` – Favoritenverwaltung *(Hinzufügen/Entfernen aktiv, Speicherung folgt)*
+- `ProfileActivity`, `ProgressActivity` – Nutzerprofil & Gesamtfortschritt
+- `QuizActivity`, `QuizResultActivity` – Quiz & Auswertung
+
+#### 🧠 Logik & Daten
+- `LessonGenerator`, `QuizGenerator` – Generierung von Inhalten
+- `ProgressTracker`, `ProgressBadge` – Fortschrittslogik
+- `VocabularyCache`, `VocabularyCacheHelper`, `VocabularyFetcher` – Vokabelverwaltung
+
+#### 🌐 API & Sprachlogik
+- `ApiConfig` – Token & Endpunkte *(Token bereits integriert)*
+- `LanguageFetcher`, `DynamicLanguageManager` – Sprachauswahl via `aaapis.com` *(besonders wichtig für App-Identität)*
+
+#### ⚙️ Sonstiges
+- `ConflictResolutionDialogFragment` – Dialog bei Konflikten
+
+---
+
+### 📌 Aktueller Fortschritt
+
+- ✅ Splashscreen eingebaut, Dauer wird verlängert
+- 🔜 Startscreen mit Bounce-Button wird verfeinert
+- 🔄 Favoritenverwaltung aktiv, Speicherung folgt
+- ✅ API-Token integriert, Sprachauswahl vorbereitet
+- 🔄 Quiz & Fortschritt in Entwicklung
+- 🚫 Release-Signierung noch nicht eingebaut (nicht relevant aktuell)
+
+---
+
+### 🧭 Priorisierte Roadmap
+
+1. Splashscreen verlängern *(in Arbeit)*
+2. Startscreen verfeinern *(als Nächstes)*
+3. Lektionsliste stabilisieren
+4. Favoritenverwaltung ausbauen
+5. Quiz & Fortschritt
+6. Text-to-Speech erweitern
+7. Sprachauswahl via API (parallel wichtig)
+8. Release-Signierung (später)
