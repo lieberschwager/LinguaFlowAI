@@ -7443,3 +7443,10 @@ Die App ist modular aufgebaut und gliedert sich in folgende Komponenten:
 - DEVLOG.md
 - app/src/main/res/drawable/splash_background.xml
 
+## 📅 2025-09-09 – 19:23
+🔖 Commit: *🎨 Apply SplashTheme and fix windowBackground type in styles.xml and manifest*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- app/src/main/AndroidManifest.xml
+- app/src/main/res/values/styles.xml
+
