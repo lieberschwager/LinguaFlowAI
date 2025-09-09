@@ -7310,3 +7310,9 @@ Die App ist modular aufgebaut und gliedert sich in folgende Komponenten:
 - DEVLOG.md
 - app/src/main/java/com/linguaflow/myapp/VocabularyCache.java
 
+## 📅 2025-09-09 – 13:50
+🔖 Commit: *🧹 Fix: API21-kompatible getRandomTranslations ohne Streams*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- app/src/main/java/com/linguaflow/myapp/VocabularyCacheHelper.java
+
