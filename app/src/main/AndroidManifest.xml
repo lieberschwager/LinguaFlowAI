@@ -1,59 +1,24 @@
-<?xml version="1.0" encoding="utf-8"?>
-<manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.linguaflow.myapp">
-
-    <!-- Berechtigung für Internetzugriff -->
-    <uses-permission android:name="android.permission.INTERNET" />
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
 
     <application
         android:allowBackup="true"
-        android:label="LinguaFlowAI"
+        android:icon="@mipmap/ic_launcher"
+        android:label="LinguaFlow"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
         android:theme="@style/AppTheme">
 
-        <!-- Splashscreen als Launcher -->
-        <activity android:name=".SplashActivity"
-            android:exported="true"
-            android:theme="@style/AppTheme">
+        <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
 
-        <!-- Startscreen mit Text- und Button-Animation -->
-        <activity android:name=".StartActivity"
-            android:exported="false"
-            android:theme="@style/AppTheme" />
-
-        <!-- Hauptinhalt -->
-        <activity android:name=".MainActivity"
-            android:exported="false"
-            android:theme="@style/AppTheme" />
-
-        <!-- Lektionen -->
-        <activity android:name=".LessonActivity"
-            android:exported="false"
-            android:theme="@style/AppTheme" />
-
-        <!-- Favoriten -->
-        <activity android:name=".FavoritesActivity"
-            android:exported="false"
-            android:theme="@style/AppTheme" />
-
-        <!-- Lernfortschritt -->
-        <activity android:name=".ProgressActivity"
-            android:exported="false"
-            android:theme="@style/AppTheme" />
-
-        <!-- Quiz -->
-        <activity android:name=".QuizActivity"
-            android:exported="false"
-            android:theme="@style/AppTheme" />
-
-        <!-- Profil -->
-        <activity android:name=".ProfileActivity"
-            android:exported="false"
-            android:theme="@style/AppTheme" />
+        <activity android:name=".LessonActivity" />
+        <activity android:name=".QuizActivity" />
+        <activity android:name=".FavoritesActivity" />
+        <activity android:name=".LessonStatsActivity" />
 
     </application>
 

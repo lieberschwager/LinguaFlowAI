@@ -7191,3 +7191,29 @@ Die App ist modular aufgebaut und gliedert sich in folgende Komponenten:
 6. Text-to-Speech erweitern
 7. Sprachauswahl via API (parallel wichtig)
 8. Release-Signierung (später)
+## 📅 2025-09-09 – 11:36
+🔖 Commit: *✅ LinguaFlow v1: Sprachsensitives Lernsystem mit Quiz, Favoriten & Fortschritt*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- app/src/main/java/com/linguaflow/myapp/DynamicLanguageManager.java
+- app/src/main/java/com/linguaflow/myapp/ExampleGenerator.java
+- app/src/main/java/com/linguaflow/myapp/FavoritesActivity.java
+- app/src/main/java/com/linguaflow/myapp/FavoritesManager.java
+- app/src/main/java/com/linguaflow/myapp/LanguageFetcher.java
+- app/src/main/java/com/linguaflow/myapp/LessonActivity.java
+- app/src/main/java/com/linguaflow/myapp/LessonGenerator.java
+- app/src/main/java/com/linguaflow/myapp/MainActivity.java
+- app/src/main/java/com/linguaflow/myapp/ProgressTracker.java
+- app/src/main/java/com/linguaflow/myapp/QuizActivity.java
+- app/src/main/java/com/linguaflow/myapp/QuizManager.java
+- app/src/main/java/com/linguaflow/myapp/QuizResultActivity.java
+- app/src/main/java/com/linguaflow/myapp/VocabularyCache.java
+- app/src/main/java/com/linguaflow/myapp/VocabularyCacheHelper.java
+- app/src/main/java/com/linguaflow/myapp/VocabularyFetcher.java
+- app/src/main/res/anim/start_button_bounce.xml
+- app/src/main/res/layout/favorites.xml
+- app/src/main/res/layout/lesson.xml
+- app/src/main/res/layout/lesson_stats.xml
+- app/src/main/res/layout/main.xml
+- app/src/main/res/layout/quiz.xml
+
