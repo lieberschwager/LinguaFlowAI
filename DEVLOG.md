@@ -7524,3 +7524,16 @@ Die App ist modular aufgebaut und gliedert sich in folgende Komponenten:
 - app/src/main/java/com/linguaflow/myapp/SplashActivity.java
 - app/src/main/res/layout/splash.xml
 
+## 📅 2025-09-09 – 23:29
+🔖 Commit: *🚀 LinguaFlowAI: Splashscreen, StartActivity, SettingsActivity & UI-Assets vollständig integriert*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- app/src/main/java/com/linguaflow/myapp/StartActivity.java
+- app/src/main/res/anim/fade_in.xml
+- app/src/main/res/drawable/button_primary.xml
+- app/src/main/res/layout/activity_settings.xml
+- app/src/main/res/layout/mainaktivity.xml
+- app/src/main/res/layout/quiz_result.xml
+- app/src/main/res/layout/start.xml
+- app/src/main/res/values/colors.xml
+
