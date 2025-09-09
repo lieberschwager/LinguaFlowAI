@@ -7437,3 +7437,9 @@ Die App ist modular aufgebaut und gliedert sich in folgende Komponenten:
 📂 Geänderte Dateien:
 - DEVLOG.md
 
+## 📅 2025-09-09 – 19:11
+🔖 Commit: *🎨 Fix splash_background: clean layer-list with explicit color and logo*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- app/src/main/res/drawable/splash_background.xml
+

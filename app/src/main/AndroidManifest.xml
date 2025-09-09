@@ -6,8 +6,9 @@
         android:allowBackup="true"
         android:label="@string/app_name"
         android:supportsRtl="true"
-        android:theme="@style/AppTheme.NoActionBar">
+        android:theme="@style/AppTheme">
 
+        <!-- SplashScreen mit eigenem Theme -->
         <activity
             android:name=".SplashActivity"
             android:exported="true"
@@ -18,30 +19,31 @@
             </intent-filter>
         </activity>
 
+        <!-- Weitere Activities mit AppTheme -->
         <activity
             android:name=".StartActivity"
             android:exported="true"
-            android:theme="@style/AppTheme.NoActionBar"/>
+            android:theme="@style/AppTheme"/>
 
         <activity
             android:name=".SettingsActivity"
             android:exported="true"
-            android:theme="@style/AppTheme.NoActionBar"/>
+            android:theme="@style/AppTheme"/>
 
         <activity
             android:name=".MainActivity"
             android:exported="true"
-            android:theme="@style/AppTheme.NoActionBar"/>
+            android:theme="@style/AppTheme"/>
 
         <activity
             android:name=".LessonStatsActivity"
             android:exported="true"
-            android:theme="@style/AppTheme.NoActionBar"/>
+            android:theme="@style/AppTheme"/>
 
         <activity
             android:name=".QuizResultActivity"
             android:exported="true"
-            android:theme="@style/AppTheme.NoActionBar"/>
+            android:theme="@style/AppTheme"/>
 
     </application>
 </manifest>
