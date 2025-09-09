@@ -23,7 +23,13 @@ public class QuizActivity extends Activity {
         String german = "Apfel";
 
         Map<String, String> data = VocabularyCache.load(this, "english");
-        String correctAnswer = data.getOrDefault(english, german);
+
+        String correctAnswer;
+        if (data.containsKey(english)) {
+            correctAnswer = data.get(english);
+        } else {
+            correctAnswer = german;
+        }
 
         List<String> options = Arrays.asList("Apfel", "Banane", "Orange", "Birne")
                 .stream()

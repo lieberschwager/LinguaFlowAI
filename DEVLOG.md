@@ -7280,3 +7280,9 @@ Die App ist modular aufgebaut und gliedert sich in folgende Komponenten:
 - DEVLOG.md
 - app/src/main/java/com/linguaflow/myapp/DynamicLanguageManager.java
 
+## 📅 2025-09-09 – 13:19
+🔖 Commit: *🗣️ Fix: DynamicLanguageManager mit getText für FavoritesActivity*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- app/src/main/java/com/linguaflow/myapp/DynamicLanguageManager.java
+
