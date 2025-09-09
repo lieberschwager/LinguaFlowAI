@@ -4,10 +4,12 @@ import android.app.Activity;
 import android.os.Bundle;
 import android.widget.TextView;
 
+import java.util.ArrayList;
 import java.util.Arrays;
+import java.util.HashSet;
 import java.util.List;
 import java.util.Map;
-import java.util.stream.Collectors;
+import java.util.Set;
 
 public class QuizActivity extends Activity {
 
@@ -31,10 +33,10 @@ public class QuizActivity extends Activity {
             correctAnswer = german;
         }
 
-        List<String> options = Arrays.asList("Apfel", "Banane", "Orange", "Birne")
-                .stream()
-                .distinct()
-                .collect(Collectors.toList());
+        // Ersetze Stream-Logik durch klassische Distinct-Logik
+        List<String> rawOptions = Arrays.asList("Apfel", "Banane", "Orange", "Birne");
+        Set<String> uniqueSet = new HashSet<>(rawOptions);
+        List<String> options = new ArrayList<>(uniqueSet);
 
         questionView.setText("Was heißt '" + english + "' auf Deutsch?");
         answerView.setText("Antwort: " + correctAnswer);

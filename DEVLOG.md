@@ -7292,3 +7292,9 @@ Die App ist modular aufgebaut und gliedert sich in folgende Komponenten:
 - DEVLOG.md
 - app/src/main/java/com/linguaflow/myapp/QuizActivity.java
 
+## 📅 2025-09-09 – 13:27
+🔖 Commit: *🧼 Fix: API 21-kompatible Antwortlogik für QuizActivity*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- app/src/main/java/com/linguaflow/myapp/QuizActivity.java
+
