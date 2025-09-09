@@ -7322,3 +7322,9 @@ Die App ist modular aufgebaut und gliedert sich in folgende Komponenten:
 - DEVLOG.md
 - app/src/main/java/com/linguaflow/myapp/LessonStatsActivity.java
 
+## 📅 2025-09-09 – 14:09
+🔖 Commit: *🧹 Fix: Korrigiere LessonStatsActivity – bind statsText an richtige ID*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- app/src/main/java/com/linguaflow/myapp/LessonStatsActivity.java
+

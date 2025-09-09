@@ -1,54 +1,40 @@
 package com.linguaflow.myapp;
 
 import android.app.Activity;
-import android.content.Intent;
 import android.os.Bundle;
-import android.widget.Button;
 import android.widget.TextView;
 
 public class QuizResultActivity extends Activity {
 
-    private TextView resultText, feedbackText;
-    private Button retryButton, homeButton;
+    private TextView resultText;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.quiz_result);
 
+        // Binde die einzige TextView im Layout
         resultText = findViewById(R.id.resultText);
-        feedbackText = findViewById(R.id.feedbackText);
-        retryButton = findViewById(R.id.retryButton);
-        homeButton = findViewById(R.id.homeButton);
 
-        int correct = getIntent().getIntExtra("correct", 0);
-        int total = getIntent().getIntExtra("total", 0);
+        // Lade die übergebenen Extras
+        int correctCount = getIntent().getIntExtra("correctCount", 0);
+        int totalCount   = getIntent().getIntExtra("totalCount", 0);
 
-        resultText.setText("Du hast " + correct + " von " + total + " richtig beantwortet.");
-
-        String feedback;
-        float score = (float) correct / total;
-        if (score == 1f) {
-            feedback = "Perfekt! 🎉";
-        } else if (score >= 0.75f) {
-            feedback = "Sehr gut! Weiter so!";
-        } else if (score >= 0.5f) {
-            feedback = "Ganz okay – noch etwas üben.";
+        // Berechne Prozentsatz (falls totalCount > 0)
+        String percentage;
+        if (totalCount > 0) {
+            int percent = Math.round(correctCount * 100f / totalCount);
+            percentage = percent + "%";
         } else {
-            feedback = "Da geht noch was. Versuch's nochmal!";
+            percentage = "–";
         }
-        feedbackText.setText(feedback);
 
-        retryButton.setOnClickListener(v -> {
-            Intent intent = new Intent(this, QuizActivity.class);
-            startActivity(intent);
-            finish();
-        });
+        // Baue das Ergebnis-Label
+        String summary = "Richtig: " + correctCount
+                       + " von " + totalCount
+                       + " (" + percentage + ")";
 
-        homeButton.setOnClickListener(v -> {
-            Intent intent = new Intent(this, MainActivity.class);
-            startActivity(intent);
-            finish();
-        });
+        // Setze den Text
+        resultText.setText(summary);
     }
 }
