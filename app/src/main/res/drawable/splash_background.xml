@@ -4,11 +4,11 @@
     <!-- weißer Hintergrund -->
     <item android:drawable="@android:color/white"/>
 
-    <!-- zentriertes Logo: ersetze 'your_splash_logo' durch deinen tatsächlichen Bildnamen -->
+    <!-- zentriertes Logo: linguaflowai_logo.png -->
     <item>
         <bitmap
             android:gravity="center"
-            android:src="@drawable/your_splash_logo"/>
+            android:src="@drawable/linguaflowai_logo"/>
     </item>
 
 </layer-list>

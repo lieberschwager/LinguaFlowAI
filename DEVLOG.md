@@ -7352,3 +7352,9 @@ Die App ist modular aufgebaut und gliedert sich in folgende Komponenten:
 - app/src/main/AndroidManifest.xml
 - app/src/main/res/values/styles.xml
 
+## 📅 2025-09-09 – 15:13
+🔖 Commit: *🔧 Add splash_background drawable to fix resource linking*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- app/src/main/res/drawable/splash_background.xml
+
