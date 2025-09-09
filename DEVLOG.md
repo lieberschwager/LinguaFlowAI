@@ -7328,3 +7328,9 @@ Die App ist modular aufgebaut und gliedert sich in folgende Komponenten:
 - DEVLOG.md
 - app/src/main/java/com/linguaflow/myapp/LessonStatsActivity.java
 
+## 📅 2025-09-09 – 14:15
+🔖 Commit: *🔧 Fix: QuizResultActivity passt jetzt zum quiz_result.xml Layout*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- app/src/main/java/com/linguaflow/myapp/QuizResultActivity.java
+
