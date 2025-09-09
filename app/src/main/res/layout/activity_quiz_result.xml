@@ -3,13 +3,25 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    android:padding="16dp">
+    android:padding="16dp"
+    android:gravity="center_horizontal">
+
+    <TextView
+        android:id="@+id/resultText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Dein Ergebnis erscheint hier"
+        android:textSize="20sp"
+        android:textColor="@color/textDark"
+        android:layout_marginBottom="24dp"
+        android:contentDescription="Quiz-Ergebnistext" />
 
     <Button
         android:id="@+id/retryButton"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Nochmal" />
+        android:text="Nochmal"
+        android:layout_marginBottom="12dp" />
 
     <Button
         android:id="@+id/homeButton"

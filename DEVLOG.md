@@ -7537,3 +7537,9 @@ Die App ist modular aufgebaut und gliedert sich in folgende Komponenten:
 - app/src/main/res/layout/start.xml
 - app/src/main/res/values/colors.xml
 
+## 📅 2025-09-09 – 23:39
+🔖 Commit: *✅ SplashActivity Build-Fix: fehlender Animation-Import ergänzt*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- app/src/main/java/com/linguaflow/myapp/SplashActivity.java
+
