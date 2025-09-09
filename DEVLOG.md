@@ -7339,3 +7339,9 @@ Die App ist modular aufgebaut und gliedert sich in folgende Komponenten:
 📂 Geänderte Dateien:
 - DEVLOG.md
 
+## 📅 2025-09-09 – 15:02
+🔖 Commit: *🔧 Fix: Correct SplashActivity reference in AndroidManifest*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- app/src/main/AndroidManifest.xml
+
