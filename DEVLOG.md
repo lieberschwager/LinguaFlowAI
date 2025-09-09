@@ -7496,3 +7496,9 @@ Die App ist modular aufgebaut und gliedert sich in folgende Komponenten:
 - app/src/main/java/com/linguaflow/myapp/ProfileActivity.java
 - app/src/main/java/com/linguaflow/myapp/ProgressActivity.java
 
+## 📅 2025-09-09 – 21:43
+🔖 Commit: *📦 Manifest aktualisiert: QuizActivity hinzugefügt, alle Einträge synchronisiert*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- app/src/main/AndroidManifest.xml
+
