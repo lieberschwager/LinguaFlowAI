@@ -7468,3 +7468,9 @@ Die App ist modular aufgebaut und gliedert sich in folgende Komponenten:
 📂 Geänderte Dateien:
 - DEVLOG.md
 
+## 📅 2025-09-09 – 20:23
+🔖 Commit: *🧹 Cleanup: remove unused quiz.xml layout (activity_quiz.xml is used in QuizActivity)*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- app/src/main/res/layout/quiz.xml
+
