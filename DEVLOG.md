@@ -7334,3 +7334,8 @@ Die App ist modular aufgebaut und gliedert sich in folgende Komponenten:
 - DEVLOG.md
 - app/src/main/java/com/linguaflow/myapp/QuizResultActivity.java
 
+## 📅 2025-09-09 – 14:47
+🔖 Commit: *🔧 Fix: SplashActivity duration to 10s and configure as launcher in AndroidManifest*
+📂 Geänderte Dateien:
+- DEVLOG.md
+
