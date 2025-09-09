@@ -7231,3 +7231,9 @@ Die App ist modular aufgebaut und gliedert sich in folgende Komponenten:
 - DEVLOG.md
 - app/src/main/AndroidManifest.xml
 
+## 📅 2025-09-09 – 12:21
+🔖 Commit: *🧹 Cleanup: Entferne Icon-Verweise aus Manifest*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- app/src/main/AndroidManifest.xml
+
