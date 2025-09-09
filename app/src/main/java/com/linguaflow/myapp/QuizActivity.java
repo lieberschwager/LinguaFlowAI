@@ -25,7 +25,7 @@ public class QuizActivity extends Activity {
         Map<String, String> data = VocabularyCache.load(this, "english");
 
         String correctAnswer;
-        if (data.containsKey(english)) {
+        if (data != null && data.containsKey(english)) {
             correctAnswer = data.get(english);
         } else {
             correctAnswer = german;
