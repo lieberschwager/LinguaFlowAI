@@ -7485,3 +7485,14 @@ Die App ist modular aufgebaut und gliedert sich in folgende Komponenten:
 - app/src/main/res/layout/profile.xml
 - app/src/main/res/layout/progress.xml
 
+## 📅 2025-09-09 – 20:42
+🔖 Commit: *🧹 Cleanup: remove unused Activities (Favorites, Profile, Progress, Lesson*) to streamline project*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- app/src/main/java/com/linguaflow/myapp/FavoritesActivity.java
+- app/src/main/java/com/linguaflow/myapp/LessonActivity.java
+- app/src/main/java/com/linguaflow/myapp/LessonImportActivity.java
+- app/src/main/java/com/linguaflow/myapp/LessonReviewActivity.java
+- app/src/main/java/com/linguaflow/myapp/ProfileActivity.java
+- app/src/main/java/com/linguaflow/myapp/ProgressActivity.java
+
