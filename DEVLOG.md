@@ -7364,3 +7364,9 @@ Die App ist modular aufgebaut und gliedert sich in folgende Komponenten:
 - DEVLOG.md
 - app/src/main/res/drawable/splash_background.xml
 
+## 📅 2025-09-09 – 16:09
+🔖 Commit: *✅ Fix: Activate 'Los geht’s' button with click listener in StartActivity*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- app/src/main/java/com/linguaflow/myapp/StartActivity.java
+

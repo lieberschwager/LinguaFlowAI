@@ -5,16 +5,17 @@
     android:layout_height="match_parent"
     android:orientation="vertical"
     android:padding="24dp"
-    android:gravity="center"
+    android:gravity="center_horizontal"
     android:background="#FFFFFF">
 
     <TextView
         android:id="@+id/welcomeText"
-        android:layout_width="wrap_content"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="Welcome"
         android:textSize="20sp"
         android:textStyle="bold"
+        android:gravity="center"
         android:layout_marginBottom="32dp" />
 
     <Button
@@ -22,6 +23,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="Start Lesson"
+        android:textAlignment="center"
         android:layout_marginBottom="16dp" />
 
     <Button
@@ -29,6 +31,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="Start Quiz"
+        android:textAlignment="center"
         android:layout_marginBottom="16dp" />
 
     <Button
@@ -36,12 +39,14 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="View Favorites"
+        android:textAlignment="center"
         android:layout_marginBottom="16dp" />
 
     <Button
         android:id="@+id/statsButton"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="View Stats" />
+        android:text="View Stats"
+        android:textAlignment="center" />
 
 </LinearLayout>
