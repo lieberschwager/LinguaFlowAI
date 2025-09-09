@@ -7450,3 +7450,9 @@ Die App ist modular aufgebaut und gliedert sich in folgende Komponenten:
 - app/src/main/AndroidManifest.xml
 - app/src/main/res/values/styles.xml
 
+## 📅 2025-09-09 – 19:31
+🔖 Commit: *🐛 Fix splash.xml: redirect missing resources to linguaflowai_logo and default text color*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- app/src/main/res/layout/splash.xml
+
