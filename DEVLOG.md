@@ -7370,3 +7370,10 @@ Die App ist modular aufgebaut und gliedert sich in folgende Komponenten:
 - DEVLOG.md
 - app/src/main/java/com/linguaflow/myapp/StartActivity.java
 
+## 📅 2025-09-09 – 16:42
+🔖 Commit: *🎨 UI Update: Centered welcome text and personalized greeting in MainActivity*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- app/src/main/java/com/linguaflow/myapp/MainActivity.java
+- app/src/main/res/layout/main.xml
+
