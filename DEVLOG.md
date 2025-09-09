@@ -7377,3 +7377,9 @@ Die App ist modular aufgebaut und gliedert sich in folgende Komponenten:
 - app/src/main/java/com/linguaflow/myapp/MainActivity.java
 - app/src/main/res/layout/main.xml
 
+## 📅 2025-09-09 – 17:00
+🔖 Commit: *⏱️ UX: Extend SplashActivity delay to 15 seconds*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- app/src/main/java/com/linguaflow/myapp/SplashActivity.java
+
