@@ -7254,3 +7254,10 @@ Die App ist modular aufgebaut und gliedert sich in folgende Komponenten:
 - app/src/main/res/layout/activity_quiz.xml
 - app/src/main/res/layout/activity_quiz_result.xml
 
+## 📅 2025-09-09 – 12:58
+🔖 Commit: *🧩 Fix: Vollständige Cache-Logik für Quiz & Import*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- app/src/main/java/com/linguaflow/myapp/VocabularyCache.java
+- app/src/main/java/com/linguaflow/myapp/VocabularyCacheHelper.java
+

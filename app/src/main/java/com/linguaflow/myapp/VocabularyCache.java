@@ -26,6 +26,11 @@ public class VocabularyCache {
         // Beispiel kann separat gespeichert werden, falls du das später brauchst
     }
 
+    public static void saveTranslation(Context context, String englishWord, String germanWord) {
+        SharedPreferences prefs = context.getSharedPreferences("vocab_english", Context.MODE_PRIVATE);
+        prefs.edit().putString(englishWord, germanWord).apply();
+    }
+
     public static String getGerman(Context context, String englishWord) {
         Map<String, String> data = load(context, "english");
         return data.getOrDefault(englishWord, "");
