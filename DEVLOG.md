@@ -7549,3 +7549,9 @@ Die App ist modular aufgebaut und gliedert sich in folgende Komponenten:
 - DEVLOG.md
 - app/src/main/res/layout/activity_quiz_result.xml
 
+## 📅 2025-09-10 – 00:16
+🔖 Commit: *🛠️ Fix: Layout-Verweis korrigiert → activity_quiz_result statt quiz_result*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- app/src/main/java/com/linguaflow/myapp/QuizResultActivity.java
+
