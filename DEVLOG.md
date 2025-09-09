@@ -7474,3 +7474,14 @@ Die App ist modular aufgebaut und gliedert sich in folgende Komponenten:
 - DEVLOG.md
 - app/src/main/res/layout/quiz.xml
 
+## 📅 2025-09-09 – 20:34
+🔖 Commit: *🧹 Cleanup: remove unused layout files for favorites, profile, progress, and lesson modules*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- app/src/main/res/layout/favorites.xml
+- app/src/main/res/layout/lesson.xml
+- app/src/main/res/layout/lesson_import.xml
+- app/src/main/res/layout/lesson_review.xml
+- app/src/main/res/layout/profile.xml
+- app/src/main/res/layout/progress.xml
+
