@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="dividerLight">#DDDDDD</color>
+    <color name="divider_light">#DDDDDD</color>
 </resources>

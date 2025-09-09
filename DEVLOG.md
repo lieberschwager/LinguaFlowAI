@@ -7111,3 +7111,9 @@
 - DEVLOG.md
 - app/src/main/java/com/linguaflow/myapp/LessonImportActivity.java
 
+## 📅 2025-09-09 – 01:15
+🔖 Commit: *Fix: Methode set() ergänzt in ProgressTracker für direkten Fortschritt-Import*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- app/src/main/java/com/linguaflow/myapp/ProgressTracker.java
+
