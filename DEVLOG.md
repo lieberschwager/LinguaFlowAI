@@ -7511,3 +7511,9 @@ Die App ist modular aufgebaut und gliedert sich in folgende Komponenten:
 - app/src/main/java/com/linguaflow/myapp/SplashActivity.java
 - app/src/main/res/layout/splash.xml
 
+## 📅 2025-09-09 – 22:05
+🔖 Commit: *🆕 activity_main.xml neu erstellt – versehentlich gelöscht, jetzt wieder am Start*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- app/src/main/res/layout/activity_main.xml
+
