@@ -19,10 +19,16 @@ public class DynamicLanguageManager {
         }
 
         if (langMap == null) {
-            return key; // Fallback auf Originaltext
+            return key;
         }
 
         return langMap.containsKey(key) ? langMap.get(key) : key;
+    }
+
+    // 🔧 Neue Methode: Alias für getTranslation mit Default-Sprache
+    public static String getText(Context context, String key) {
+        // Du kannst hier später dynamisch die Sprache aus den Einstellungen holen
+        return getTranslation(context, "en", key);
     }
 
     public static void loadTranslations(String lang, Map<String, String> data) {

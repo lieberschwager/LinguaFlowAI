@@ -7274,3 +7274,9 @@ Die App ist modular aufgebaut und gliedert sich in folgende Komponenten:
 - DEVLOG.md
 - app/src/main/java/com/linguaflow/myapp/VocabularyFetcher.java
 
+## 📅 2025-09-09 – 13:15
+🔖 Commit: *🧼 Fix: API-kompatible Fallback-Logik für DynamicLanguageManager*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- app/src/main/java/com/linguaflow/myapp/DynamicLanguageManager.java
+
