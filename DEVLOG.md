@@ -7417,3 +7417,18 @@ Die App ist modular aufgebaut und gliedert sich in folgende Komponenten:
 📂 Geänderte Dateien:
 - DEVLOG.md
 
+## 📅 2025-09-09 – 18:55
+🔖 Commit: *🚀 Setup complete: Splash, Settings, MainActivity, layout fixes & style enhancements*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- app/src/main/AndroidManifest.xml
+- app/src/main/java/com/linguaflow/myapp/MainActivity.java
+- app/src/main/java/com/linguaflow/myapp/SettingsActivity.java
+- app/src/main/java/com/linguaflow/myapp/SplashActivity.java
+- app/src/main/res/layout/activity_settings.xml
+- app/src/main/res/layout/mainaktivity.xml
+- app/src/main/res/layout/settings_activity.xml
+- app/src/main/res/layout/splash.xml
+- app/src/main/res/values/colors.xml
+- app/src/main/res/values/styles.xml
+
