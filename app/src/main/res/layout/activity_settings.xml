@@ -1,40 +1,46 @@
-<?xml version="1.0" encoding="utf-8"?>
-<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    android:orientation="vertical"
-    android:padding="24dp"
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
-    android:layout_height="match_parent">
+    android:layout_height="match_parent"
+    android:padding="24dp"
+    android:background="@color/backgroundLight">
 
+    <!-- Titel -->
     <TextView
-        android:text="Wie heißt du?"
-        android:textSize="18sp"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"/>
-
-    <EditText
-        android:id="@+id/nameInput"
-        android:hint="Dein Name"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_marginTop="8dp"/>
-
-    <TextView
-        android:text="Welche Sprache möchtest du lernen?"
-        android:textSize="18sp"
+        android:id="@+id/settingsTitle"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginTop="24dp"/>
+        android:text="Einstellungen"
+        android:textSize="22sp"
+        android:textStyle="bold"
+        android:textColor="@color/textDark"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="48dp"
+        android:contentDescription="Titel der Einstellungen" />
 
-    <Spinner
-        android:id="@+id/languageSelector"
-        android:layout_width="match_parent"
+    <!-- Dark Mode Switch -->
+    <Switch
+        android:id="@+id/darkModeSwitch"
+        android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginTop="8dp"/>
+        android:text="Dark Mode aktivieren"
+        android:textSize="16sp"
+        android:textColor="@color/textDark"
+        android:layout_below="@id/settingsTitle"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="32dp"
+        android:contentDescription="Schalter für Dark Mode" />
 
+    <!-- Zurück-Button -->
     <Button
-        android:id="@+id/continueButton"
-        android:text="Weiter"
-        android:layout_width="match_parent"
+        android:id="@+id/backButton"
+        android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginTop="24dp"/>
-</LinearLayout>
+        android:text="Zurück"
+        android:textSize="18sp"
+        android:textColor="@color/white"
+        android:background="@drawable/button_primary"
+        android:layout_below="@id/darkModeSwitch"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="48dp"
+        android:contentDescription="Zurück zur Startseite" />
+</RelativeLayout>

@@ -7,6 +7,7 @@ import android.view.animation.Animation;
 import android.view.animation.AnimationUtils;
 import android.widget.Button;
 import android.widget.TextView;
+import android.widget.Toast;
 
 public class StartActivity extends Activity {
 
@@ -19,8 +20,7 @@ public class StartActivity extends Activity {
         setContentView(R.layout.start);
 
         initViews();
-        animateWelcomeText();
-        animateStartButton();
+        applyAnimations();
         setupButtonClick();
     }
 
@@ -29,18 +29,24 @@ public class StartActivity extends Activity {
         startButton = findViewById(R.id.startButton);
     }
 
-    private void animateWelcomeText() {
-        Animation textFade = AnimationUtils.loadAnimation(this, R.anim.text_fade_in);
-        welcomeText.startAnimation(textFade);
-    }
+    private void applyAnimations() {
+        try {
+            Animation textFade = AnimationUtils.loadAnimation(this, R.anim.text_fade_in);
+            welcomeText.startAnimation(textFade);
+        } catch (Exception e) {
+            Toast.makeText(this, "Text-Animation fehlt oder fehlerhaft", Toast.LENGTH_SHORT).show();
+        }
 
-    private void animateStartButton() {
-        Animation bounce = AnimationUtils.loadAnimation(this, R.anim.start_button_bounce);
-        startButton.startAnimation(bounce);
+        try {
+            Animation bounce = AnimationUtils.loadAnimation(this, R.anim.start_button_bounce);
+            startButton.startAnimation(bounce);
+        } catch (Exception e) {
+            Toast.makeText(this, "Button-Animation fehlt oder fehlerhaft", Toast.LENGTH_SHORT).show();
+        }
     }
 
     private void setupButtonClick() {
-        startButton.setEnabled(true); // Falls im Layout deaktiviert
+        startButton.setEnabled(true);
         startButton.setOnClickListener(v -> {
             Intent intent = new Intent(StartActivity.this, SettingsActivity.class);
             startActivity(intent);

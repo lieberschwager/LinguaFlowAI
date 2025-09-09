@@ -4,7 +4,7 @@
     <!-- Zustand: gedrückt -->
     <item android:state_pressed="true">
         <shape android:shape="rectangle">
-            <solid android:color="#1565C0" /> <!-- dunkleres Blau für Feedback -->
+            <solid android:color="@color/buttonPressed" /> <!-- Feedback-Farbe -->
             <corners android:radius="14dp" />
             <padding
                 android:left="12dp"
@@ -17,7 +17,7 @@
     <!-- Standardzustand -->
     <item>
         <shape android:shape="rectangle">
-            <solid android:color="#2196F3" /> <!-- Primärfarbe -->
+            <solid android:color="@color/colorPrimary" /> <!-- Primärfarbe -->
             <corners android:radius="14dp" />
             <padding
                 android:left="12dp"

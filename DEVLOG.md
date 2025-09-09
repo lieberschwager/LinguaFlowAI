@@ -7517,3 +7517,10 @@ Die App ist modular aufgebaut und gliedert sich in folgende Komponenten:
 - DEVLOG.md
 - app/src/main/res/layout/activity_main.xml
 
+## 📅 2025-09-09 – 23:02
+🔖 Commit: *🚀 Splashscreen komplett: animiertes Logo mit Regenbogeneffekt, Textbewegung & 15s Begrüßung*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- app/src/main/java/com/linguaflow/myapp/SplashActivity.java
+- app/src/main/res/layout/splash.xml
+
