@@ -7389,3 +7389,9 @@ Die App ist modular aufgebaut und gliedert sich in folgende Komponenten:
 - DEVLOG.md
 - app/src/main/res/layout/start.xml
 
+## 📅 2025-09-09 – 17:23
+🔖 Commit: *🧾 UI Fix: Centered welcome text in StartActivity layout*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- app/src/main/res/layout/start.xml
+

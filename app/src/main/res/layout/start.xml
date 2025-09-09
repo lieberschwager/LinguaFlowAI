@@ -1,14 +1,35 @@
-<TextView
-    android:id="@+id/welcomeText"
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
-    android:layout_height="wrap_content"
-    android:text="Willkommen bei LinguaFlowAI"
-    android:textSize="22sp"
-    android:textStyle="bold"
-    android:textColor="@color/textDark"
-    android:gravity="center"
-    android:layout_centerHorizontal="true"
-    android:layout_marginBottom="32dp"
-    android:layout_alignParentTop="true"
-    android:layout_marginTop="120dp"
-    android:contentDescription="Begrüßungstext" />
+    android:layout_height="match_parent"
+    android:padding="24dp"
+    android:background="@color/backgroundLight">
+
+    <TextView
+        android:id="@+id/welcomeText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Willkommen bei LinguaFlowAI"
+        android:textSize="22sp"
+        android:textStyle="bold"
+        android:textColor="@color/textDark"
+        android:gravity="center"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="32dp"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="120dp"
+        android:contentDescription="Begrüßungstext" />
+
+    <Button
+        android:id="@+id/startButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Los geht’s"
+        android:textSize="18sp"
+        android:textColor="@color/white"
+        android:background="@drawable/button_primary"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@id/welcomeText"
+        android:layout_marginTop="48dp"
+        android:contentDescription="Startbutton" />
+
+</RelativeLayout>
