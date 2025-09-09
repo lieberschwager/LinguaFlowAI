@@ -7316,3 +7316,9 @@ Die App ist modular aufgebaut und gliedert sich in folgende Komponenten:
 - DEVLOG.md
 - app/src/main/java/com/linguaflow/myapp/VocabularyCacheHelper.java
 
+## 📅 2025-09-09 – 13:57
+🔖 Commit: *🧼 Fix: Entferne MissingInflatedId in LessonStatsActivity*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- app/src/main/java/com/linguaflow/myapp/LessonStatsActivity.java
+

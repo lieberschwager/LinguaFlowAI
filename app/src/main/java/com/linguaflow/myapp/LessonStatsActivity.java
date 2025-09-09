@@ -6,35 +6,31 @@ import android.widget.TextView;
 
 public class LessonStatsActivity extends Activity {
 
-    private TextView statsView;
+    // Bind an den TextView mit der ID statsText aus lesson_stats.xml
+    private TextView statsText;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.lesson_stats);
 
-        // IDs, die in lesson_stats.xml wirklich existieren
-        statsView = findViewById(R.id.statsView);
+        // Optional: Titel-TextView kannst du hier anpassen oder lokalizeren
+        TextView titleText = findViewById(R.id.titleText);
+        titleText.setText("Lernfortschritt");
 
-        // Falls du irgendwann doch einen Export-Button hinzufügen willst,
-        // erstelle ihn im Layout mit android:id="@+id/exportButton"
-        // und hol ihn dann hier per findViewById.
-        //
-        // exportButton = findViewById(R.id.exportButton);
-        // exportButton.setOnClickListener(v -> exportStats());
+        // Korrekte ID aus dem XML: statsText
+        statsText = findViewById(R.id.statsText);
 
         loadAndDisplayStats();
     }
 
     private void loadAndDisplayStats() {
-        // Beispielsweise:
+        // Werte aus Intent lesen
         int correct = getIntent().getIntExtra("correctCount", 0);
-        int total = getIntent().getIntExtra("totalCount", 0);
-        String text = "Richtige Antworten: " + correct + " von " + total;
-        statsView.setText(text);
-    }
+        int total   = getIntent().getIntExtra("totalCount", 0);
 
-    // private void exportStats() {
-    //     // Export-Logik hier rein, sobald der Button im Layout steht
-    // }
+        // Text dynamisch zusammenbauen
+        String summary = "Richtige Antworten: " + correct + " von " + total;
+        statsText.setText(summary);
+    }
 }
