@@ -7463,3 +7463,8 @@ Die App ist modular aufgebaut und gliedert sich in folgende Komponenten:
 - app/src/main/res/layout/main.xml
 - app/src/main/res/layout/settings_activity.xml
 
+## 📅 2025-09-09 – 20:18
+🔖 Commit: *🧹 Remove redundant mainactivity.xml layout (replaced by activity_main.xml)*
+📂 Geänderte Dateien:
+- DEVLOG.md
+
