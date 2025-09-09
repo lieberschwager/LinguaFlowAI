@@ -11,30 +11,26 @@ public class QuizResultActivity extends Activity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.quiz_result);
+        setContentView(R.layout.activity_quiz_result); // ✅ Layout-Verweis korrigiert
 
-        // Binde die einzige TextView im Layout
+        // Binde die Ergebnis-TextView
         resultText = findViewById(R.id.resultText);
 
-        // Lade die übergebenen Extras
+        // Lade die übergebenen Werte
         int correctCount = getIntent().getIntExtra("correctCount", 0);
         int totalCount   = getIntent().getIntExtra("totalCount", 0);
 
-        // Berechne Prozentsatz (falls totalCount > 0)
-        String percentage;
-        if (totalCount > 0) {
-            int percent = Math.round(correctCount * 100f / totalCount);
-            percentage = percent + "%";
-        } else {
-            percentage = "–";
-        }
+        // Berechne den Prozentsatz
+        String percentage = (totalCount > 0)
+            ? Math.round(correctCount * 100f / totalCount) + "%"
+            : "–";
 
-        // Baue das Ergebnis-Label
+        // Ergebnis-Text zusammenbauen
         String summary = "Richtig: " + correctCount
                        + " von " + totalCount
                        + " (" + percentage + ")";
 
-        // Setze den Text
+        // Text setzen
         resultText.setText(summary);
     }
 }
