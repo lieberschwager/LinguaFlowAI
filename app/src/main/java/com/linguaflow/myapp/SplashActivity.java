@@ -11,6 +11,9 @@ import android.widget.TextView;
 
 public class SplashActivity extends Activity {
 
+    private static final int TEXT_DELAY_MS = 1200;
+    private static final int TRANSITION_DELAY_MS = 6000;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -19,22 +22,26 @@ public class SplashActivity extends Activity {
         ImageView logo = findViewById(R.id.logo);
         TextView splashText = findViewById(R.id.splashText);
 
-        // Lade und starte Logo-Animation
+        // Starte Logo-Animation
         Animation logoAnim = AnimationUtils.loadAnimation(this, R.anim.logo_enter);
         logo.startAnimation(logoAnim);
 
-        // Lade und starte Text-Animation mit leichter Verzögerung
+        // Starte Text-Animation nach kurzer Verzögerung
         new Handler().postDelayed(() -> {
             Animation textAnim = AnimationUtils.loadAnimation(this, R.anim.text_enter);
             splashText.startAnimation(textAnim);
-        }, 1200); // Startet nach Logo-Animation
+        }, TEXT_DELAY_MS);
 
-        // Nach 6 Sekunden: sanfter Übergang zur Startseite
+        // Übergang zur Startseite nach definierter Zeit
         new Handler().postDelayed(() -> {
-            splashText.startAnimation(AnimationUtils.loadAnimation(this, R.anim.fade_out));
-            startActivity(new Intent(SplashActivity.this, StartActivity.class));
+            Animation fadeOut = AnimationUtils.loadAnimation(this, R.anim.fade_out);
+            splashText.startAnimation(fadeOut);
+            logo.startAnimation(fadeOut);
+
+            Intent intent = new Intent(SplashActivity.this, StartActivity.class);
+            startActivity(intent);
             overridePendingTransition(android.R.anim.fade_in, android.R.anim.fade_out);
             finish();
-        }, 6000);
+        }, TRANSITION_DELAY_MS);
     }
 }

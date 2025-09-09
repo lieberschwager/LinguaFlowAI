@@ -7555,3 +7555,12 @@ Die App ist modular aufgebaut und gliedert sich in folgende Komponenten:
 - DEVLOG.md
 - app/src/main/java/com/linguaflow/myapp/QuizResultActivity.java
 
+## 📅 2025-09-10 – 00:52
+🔖 Commit: *✨ Splashscreen komplett überarbeitet: Animationen + sanfter Übergang zur Startseite*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- app/src/main/java/com/linguaflow/myapp/SplashActivity.java
+- app/src/main/res/anim/fade_out.xml
+- app/src/main/res/anim/logo_enter.xml
+- app/src/main/res/anim/text_enter.xml
+
