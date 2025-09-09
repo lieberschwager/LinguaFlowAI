@@ -7358,3 +7358,9 @@ Die App ist modular aufgebaut und gliedert sich in folgende Komponenten:
 - DEVLOG.md
 - app/src/main/res/drawable/splash_background.xml
 
+## 📅 2025-09-09 – 15:26
+🔖 Commit: *🔧 Fix: use linguaflowai_logo in splash_background drawable*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- app/src/main/res/drawable/splash_background.xml
+

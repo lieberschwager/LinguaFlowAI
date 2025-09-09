@@ -1,6 +1,7 @@
 package com.linguaflow.myapp;
 
 import android.app.Activity;
+import android.content.Intent;
 import android.os.Bundle;
 import android.view.animation.Animation;
 import android.view.animation.AnimationUtils;
@@ -20,6 +21,7 @@ public class StartActivity extends Activity {
         initViews();
         animateWelcomeText();
         animateStartButton();
+        setupButtonClick();
     }
 
     private void initViews() {
@@ -35,5 +37,13 @@ public class StartActivity extends Activity {
     private void animateStartButton() {
         Animation bounce = AnimationUtils.loadAnimation(this, R.anim.start_button_bounce);
         startButton.startAnimation(bounce);
+    }
+
+    private void setupButtonClick() {
+        startButton.setEnabled(true); // Falls im Layout deaktiviert
+        startButton.setOnClickListener(v -> {
+            Intent intent = new Intent(StartActivity.this, LessonStatsActivity.class);
+            startActivity(intent);
+        });
     }
 }
