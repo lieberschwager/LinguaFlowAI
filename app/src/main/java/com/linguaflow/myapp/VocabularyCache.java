@@ -11,10 +11,10 @@ public class VocabularyCache {
     public static Map<String, String> load(Context context, String language) {
         SharedPreferences prefs = context.getSharedPreferences("vocab_" + language, Context.MODE_PRIVATE);
         Map<String, String> map = new HashMap<>();
-        for (String key : prefs.getAll().keySet()) {
-            Object value = prefs.getAll().get(key);
+        for (Map.Entry<String, ?> entry : prefs.getAll().entrySet()) {
+            Object value = entry.getValue();
             if (value instanceof String) {
-                map.put(key, (String) value);
+                map.put(entry.getKey(), (String) value);
             }
         }
         return map;
@@ -23,7 +23,7 @@ public class VocabularyCache {
     public static void save(Context context, String word, String translation, String example) {
         SharedPreferences prefs = context.getSharedPreferences("vocab_english", Context.MODE_PRIVATE);
         prefs.edit().putString(word, translation).apply();
-        // Beispiel kann separat gespeichert werden, falls du das später brauchst
+        // Beispiel kann bei Bedarf separat gespeichert werden
     }
 
     public static void saveTranslation(Context context, String englishWord, String germanWord) {
@@ -33,6 +33,10 @@ public class VocabularyCache {
 
     public static String getGerman(Context context, String englishWord) {
         Map<String, String> data = load(context, "english");
-        return data.getOrDefault(englishWord, "");
+        if (data != null && data.containsKey(englishWord)) {
+            return data.get(englishWord);
+        } else {
+            return "";
+        }
     }
 }
