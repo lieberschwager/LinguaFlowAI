@@ -7456,3 +7456,10 @@ Die App ist modular aufgebaut und gliedert sich in folgende Komponenten:
 - DEVLOG.md
 - app/src/main/res/layout/splash.xml
 
+## 📅 2025-09-09 – 20:03
+🔖 Commit: *🧹 Cleanup: remove redundant layout files to follow Android Studio naming conventions*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- app/src/main/res/layout/main.xml
+- app/src/main/res/layout/settings_activity.xml
+
