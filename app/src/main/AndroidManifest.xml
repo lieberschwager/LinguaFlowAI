@@ -24,6 +24,16 @@
             android:theme="@style/AppTheme.NoActionBar"/>
 
         <activity
+            android:name=".SettingsActivity"
+            android:exported="true"
+            android:theme="@style/AppTheme.NoActionBar"/>
+
+        <activity
+            android:name=".MainActivity"
+            android:exported="true"
+            android:theme="@style/AppTheme.NoActionBar"/>
+
+        <activity
             android:name=".LessonStatsActivity"
             android:exported="true"
             android:theme="@style/AppTheme.NoActionBar"/>

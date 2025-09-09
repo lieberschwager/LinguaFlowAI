@@ -7412,3 +7412,8 @@ Die App ist modular aufgebaut und gliedert sich in folgende Komponenten:
 📂 Geänderte Dateien:
 - DEVLOG.md
 
+## 📅 2025-09-09 – 18:46
+🔖 Commit: *🧩 Fix: Add missing nameInput field to settingsactivity layout*
+📂 Geänderte Dateien:
+- DEVLOG.md
+

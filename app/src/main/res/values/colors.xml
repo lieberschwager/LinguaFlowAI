@@ -17,4 +17,13 @@
     <color name="buttonPressed">#1565C0</color>        <!-- Blau für gedrückte Buttons -->
     <color name="dividerGray">#BDBDBD</color>          <!-- Für Listen-Trennlinien -->
 
+    <!-- 🌈 Regenbogenfarben für Splashscreen -->
+    <color name="rainbowRed">#FF0000</color>           <!-- Rot -->
+    <color name="rainbowOrange">#FF7F00</color>        <!-- Orange -->
+    <color name="rainbowYellow">#FFFF00</color>        <!-- Gelb -->
+    <color name="rainbowGreen">#00FF00</color>         <!-- Grün -->
+    <color name="rainbowBlue">#0000FF</color>          <!-- Blau -->
+    <color name="rainbowIndigo">#4B0082</color>        <!-- Indigo -->
+    <color name="rainbowViolet">#8B00FF</color>        <!-- Violett -->
+
 </resources>

@@ -1,41 +1,38 @@
 package com.linguaflow.myapp;
 
 import android.app.Activity;
-import android.content.Intent;
 import android.content.SharedPreferences;
 import android.os.Bundle;
-import android.widget.Button;
 import android.widget.TextView;
-import android.view.Gravity;
 
 public class MainActivity extends Activity {
 
-    private TextView welcomeText;
-    private Button lessonButton, quizButton, favoritesButton, statsButton;
+    private TextView greetingText;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.main);
+        setContentView(R.layout.mainactivity); // Stelle sicher, dass diese Layout-Datei existiert
 
-        welcomeText = findViewById(R.id.welcomeText);
-        lessonButton = findViewById(R.id.lessonButton);
-        quizButton = findViewById(R.id.quizButton);
-        favoritesButton = findViewById(R.id.favoritesButton);
-        statsButton = findViewById(R.id.statsButton);
+        greetingText = findViewById(R.id.greetingText);
 
-        // Benutzername aus SharedPreferences holen
         SharedPreferences prefs = getSharedPreferences("LinguaPrefs", MODE_PRIVATE);
-        String userName = prefs.getString("username", "");
+        String userName = prefs.getString("username", "Lernender");
+        String langCode = prefs.getString("language", "en");
 
-        // Begrüßungstext setzen und zentrieren
-        welcomeText.setText("Willkommen zurück, " + userName + "!");
-        welcomeText.setGravity(Gravity.CENTER_HORIZONTAL);
+        String languageName = convertToLanguageName(langCode);
+        String greeting = "Willkommen zurück, " + userName + "! Deine Lernsprache ist " + languageName + ".";
 
-        // Button-Aktionen
-        lessonButton.setOnClickListener(v -> startActivity(new Intent(this, LessonActivity.class)));
-        quizButton.setOnClickListener(v -> startActivity(new Intent(this, QuizActivity.class)));
-        favoritesButton.setOnClickListener(v -> startActivity(new Intent(this, FavoritesActivity.class)));
-        statsButton.setOnClickListener(v -> startActivity(new Intent(this, LessonStatsActivity.class)));
+        greetingText.setText(greeting);
+    }
+
+    private String convertToLanguageName(String code) {
+        switch (code) {
+            case "de": return "Deutsch";
+            case "en": return "Englisch";
+            case "es": return "Spanisch";
+            case "fr": return "Französisch";
+            default: return "Unbekannt";
+        }
     }
 }

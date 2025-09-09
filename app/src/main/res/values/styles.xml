@@ -1,14 +1,3 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-
-    <!-- App-Theme ohne ActionBar -->
-    <style name="AppTheme.NoActionBar" parent="Theme.AppCompat.Light.NoActionBar">
-        <!-- Customize your theme here -->
-    </style>
-
-    <!-- Splash-Theme mit windowBackground -->
-    <style name="SplashTheme" parent="@style/AppTheme.NoActionBar">
-        <item name="android:windowBackground">@drawable/splash_background</item>
-    </style>
-
-</resources>
+<style name="SplashTheme" parent="Theme.AppCompat.Light.NoActionBar">
+    <item name="android:windowBackground">@drawable/splash_background</item>
+</style>
