@@ -8,17 +8,19 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
 
-        <activity android:name=".MainActivity">
+        <activity
+            android:name=".MainActivity"
+            android:exported="true"> <!-- Wichtig -->
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
 
-        <activity android:name=".LessonActivity" />
-        <activity android:name=".QuizActivity" />
-        <activity android:name=".FavoritesActivity" />
-        <activity android:name=".LessonStatsActivity" />
+        <activity android:name=".LessonActivity" android:exported="false" />
+        <activity android:name=".QuizActivity" android:exported="false" />
+        <activity android:name=".FavoritesActivity" android:exported="false" />
+        <activity android:name=".LessonStatsActivity" android:exported="false" />
 
     </application>
 

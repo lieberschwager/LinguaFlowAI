@@ -7217,3 +7217,11 @@ Die App ist modular aufgebaut und gliedert sich in folgende Komponenten:
 - app/src/main/res/layout/main.xml
 - app/src/main/res/layout/quiz.xml
 
+## 📅 2025-09-09 – 12:06
+🔖 Commit: *✅ Fix: Gradle namespace & build compatibility*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- app/build.gradle
+- app/src/main/AndroidManifest.xml
+- app/src/main/res/anim/start_button_bounce.xml
+
