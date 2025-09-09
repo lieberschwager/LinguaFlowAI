@@ -7268,3 +7268,9 @@ Die App ist modular aufgebaut und gliedert sich in folgende Komponenten:
 - app/src/main/java/com/linguaflow/myapp/VocabularyCache.java
 - app/src/main/java/com/linguaflow/myapp/VocabularyFetcher.java
 
+## 📅 2025-09-09 – 13:09
+🔖 Commit: *📚 Fix: VocabularyFetcher mit getAllEnglishWords für LessonActivity*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- app/src/main/java/com/linguaflow/myapp/VocabularyFetcher.java
+
