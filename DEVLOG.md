@@ -7383,3 +7383,9 @@ Die App ist modular aufgebaut und gliedert sich in folgende Komponenten:
 - DEVLOG.md
 - app/src/main/java/com/linguaflow/myapp/SplashActivity.java
 
+## 📅 2025-09-09 – 17:15
+🔖 Commit: *🧹 UI Fix: Center welcome text in StartActivity*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- app/src/main/res/layout/start.xml
+
