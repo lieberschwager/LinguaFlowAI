@@ -7432,3 +7432,8 @@ Die App ist modular aufgebaut und gliedert sich in folgende Komponenten:
 - app/src/main/res/values/colors.xml
 - app/src/main/res/values/styles.xml
 
+## 📅 2025-09-09 – 19:07
+🔖 Commit: *🧩 Fix drawable references: add splash_background and logo image*
+📂 Geänderte Dateien:
+- DEVLOG.md
+

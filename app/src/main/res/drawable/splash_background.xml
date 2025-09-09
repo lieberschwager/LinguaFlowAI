@@ -1,14 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <layer-list xmlns:android="http://schemas.android.com/apk/res/android">
 
-    <!-- weißer Hintergrund -->
-    <item android:drawable="@android:color/white"/>
+    <!-- Hintergrundfarbe: Weiß -->
+    <item>
+        <color android:color="@android:color/white"/>
+    </item>
 
-    <!-- zentriertes Logo: linguaflowai_logo.png -->
+    <!-- zentriertes Logo -->
     <item>
         <bitmap
             android:gravity="center"
-            android:src="@drawable/linguaflowai_logo"/>
+            android:src="@drawable/linguaflowai_logo"
+            android:tileMode="disabled"/>
     </item>
 
 </layer-list>
