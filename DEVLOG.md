@@ -7261,3 +7261,10 @@ Die App ist modular aufgebaut und gliedert sich in folgende Komponenten:
 - app/src/main/java/com/linguaflow/myapp/VocabularyCache.java
 - app/src/main/java/com/linguaflow/myapp/VocabularyCacheHelper.java
 
+## 📅 2025-09-09 – 13:05
+🔖 Commit: *🧠 Fix: Vollständige Cache- und Fetch-Logik für LessonGenerator*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- app/src/main/java/com/linguaflow/myapp/VocabularyCache.java
+- app/src/main/java/com/linguaflow/myapp/VocabularyFetcher.java
+
