@@ -42,7 +42,7 @@ public class StartActivity extends Activity {
     private void setupButtonClick() {
         startButton.setEnabled(true); // Falls im Layout deaktiviert
         startButton.setOnClickListener(v -> {
-            Intent intent = new Intent(StartActivity.this, LessonStatsActivity.class);
+            Intent intent = new Intent(StartActivity.this, SettingsActivity.class);
             startActivity(intent);
         });
     }
