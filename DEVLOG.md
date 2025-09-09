@@ -7237,3 +7237,9 @@ Die App ist modular aufgebaut und gliedert sich in folgende Komponenten:
 - DEVLOG.md
 - app/src/main/AndroidManifest.xml
 
+## 📅 2025-09-09 – 12:34
+🔖 Commit: *✅ Fix: QuizActivity mit Java 17 kompatibler Stream-Logik*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- app/src/main/java/com/linguaflow/myapp/QuizActivity.java
+
