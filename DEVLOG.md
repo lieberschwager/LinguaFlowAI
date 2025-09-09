@@ -7225,3 +7225,9 @@ Die App ist modular aufgebaut und gliedert sich in folgende Komponenten:
 - app/src/main/AndroidManifest.xml
 - app/src/main/res/anim/start_button_bounce.xml
 
+## 📅 2025-09-09 – 12:14
+🔖 Commit: *🚀 Fix: Manifest & Animation für erfolgreichen APK-Build*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- app/src/main/AndroidManifest.xml
+
