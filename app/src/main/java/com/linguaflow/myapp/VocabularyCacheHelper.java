@@ -6,7 +6,6 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 import java.util.Map;
-import java.util.stream.Collectors;
 
 public class VocabularyCacheHelper {
 
@@ -26,6 +25,11 @@ public class VocabularyCacheHelper {
         }
 
         Collections.shuffle(pool);
-        return pool.stream().limit(count).collect(Collectors.toList());
+
+        List<String> result = new ArrayList<>();
+        for (int i = 0; i < count && i < pool.size(); i++) {
+            result.add(pool.get(i));
+        }
+        return result;
     }
 }

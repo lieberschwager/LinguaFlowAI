@@ -7304,3 +7304,9 @@ Die App ist modular aufgebaut und gliedert sich in folgende Komponenten:
 - DEVLOG.md
 - app/src/main/java/com/linguaflow/myapp/QuizActivity.java
 
+## 📅 2025-09-09 – 13:45
+🔖 Commit: *🧼 Fix: Removed getOrDefault for API21 in VocabularyCache*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- app/src/main/java/com/linguaflow/myapp/VocabularyCache.java
+
