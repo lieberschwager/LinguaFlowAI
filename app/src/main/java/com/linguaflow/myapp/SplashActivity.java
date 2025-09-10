@@ -8,24 +8,24 @@ import androidx.appcompat.app.AppCompatActivity;
 
 public class SplashActivity extends AppCompatActivity {
 
-    private static final int SPLASH_DURATION = 2000; // Dauer in Millisekunden
+    private static final int SPLASH_DURATION = 20000; // 20 Sekunden
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_splash); // Verweist auf deine Layout-Datei
+        setContentView(R.layout.activity_splash);
 
-        // 🌈 Rainbow Overlay einbinden (View existiert in activity_splash.xml)
+        // 🌈 Rainbow Overlay einbinden (bereits im Layout vorhanden)
         View rainbowOverlay = findViewById(R.id.rainbowOverlay);
         if (rainbowOverlay != null) {
-            rainbowOverlay.setAlpha(0.3f); // Optional: Transparenz setzen
+            rainbowOverlay.setAlpha(0.3f);
         }
 
-        // ⏳ Nach SPLASH_DURATION zur MainActivity wechseln
+        // ⏳ Nach 20 Sekunden zu StartActivity wechseln
         new Handler().postDelayed(() -> {
-            Intent intent = new Intent(SplashActivity.this, MainActivity.class);
+            Intent intent = new Intent(SplashActivity.this, StartActivity.class);
             startActivity(intent);
-            finish(); // SplashActivity beenden
+            finish();
         }, SPLASH_DURATION);
     }
 }

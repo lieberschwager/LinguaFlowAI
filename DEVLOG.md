@@ -7727,3 +7727,9 @@ Die App ist modular aufgebaut und gliedert sich in folgende Komponenten:
 - DEVLOG.md
 - app/src/main/res/values/colors.xml
 
+## 📅 2025-09-10 – 16:10
+🔖 Commit: *🛠️ Fix: Fehlende Farben ergänzt (buttonPressed, textDark, backgroundLight) für Build-Stabilität*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- app/src/main/res/values/colors.xml
+
