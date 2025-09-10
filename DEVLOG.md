@@ -7822,3 +7822,9 @@ Die App ist modular aufgebaut und gliedert sich in folgende Komponenten:
 - DEVLOG.md
 - app/src/main/res/xml/scene_logo_motion.xml
 
+## 📅 2025-09-11 – 02:34
+🔖 Commit: *Fix package and R import for SplashActivity (confirmed path)*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- app/src/main/java/com/linguaflow/myapp/SplashActivity.java
+
