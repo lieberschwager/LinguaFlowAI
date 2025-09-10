@@ -1,10 +1,11 @@
-package com.linguaflowai;
+package com.linguaflow.myapp;
 
 import android.os.Bundle;
 import android.webkit.WebView;
 import android.webkit.WebViewClient;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.constraintlayout.motion.widget.MotionLayout;
+import com.linguaflow.myapp.R;
 
 public class SplashActivity extends AppCompatActivity {
 
