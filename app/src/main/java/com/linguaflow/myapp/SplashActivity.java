@@ -1,31 +1,26 @@
-package com.linguaflow.myapp;
+package com.linguaflowai;
 
-import android.content.Intent;
 import android.os.Bundle;
-import android.os.Handler;
-import android.view.View;
+import android.webkit.WebView;
+import android.webkit.WebViewClient;
 import androidx.appcompat.app.AppCompatActivity;
+import androidx.constraintlayout.motion.widget.MotionLayout;
 
 public class SplashActivity extends AppCompatActivity {
-
-    private static final int SPLASH_DURATION = 20000; // 20 Sekunden
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_splash);
 
-        // 🌈 Rainbow Overlay einbinden (bereits im Layout vorhanden)
-        View rainbowOverlay = findViewById(R.id.rainbowOverlay);
-        if (rainbowOverlay != null) {
-            rainbowOverlay.setAlpha(0.3f);
-        }
+        // MotionLayout starten
+        MotionLayout motionLayout = findViewById(R.id.motionLayout);
+        motionLayout.transitionToEnd();
 
-        // ⏳ Nach 20 Sekunden zu StartActivity wechseln
-        new Handler().postDelayed(() -> {
-            Intent intent = new Intent(SplashActivity.this, StartActivity.class);
-            startActivity(intent);
-            finish();
-        }, SPLASH_DURATION);
+        // Globus laden
+        WebView globeView = findViewById(R.id.globeView);
+        globeView.getSettings().setJavaScriptEnabled(true);
+        globeView.setWebViewClient(new WebViewClient());
+        globeView.loadUrl("file:///android_asset/globe.html");
     }
 }

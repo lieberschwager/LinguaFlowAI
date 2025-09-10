@@ -7755,3 +7755,9 @@ Die App ist modular aufgebaut und gliedert sich in folgende Komponenten:
 - app/src/main/res/mipmap-xxhdpi/ic_launcher.png
 - app/src/main/res/mipmap-xxxhdpi/ic_launcher.png
 
+## 📅 2025-09-10 – 22:00
+🔖 Commit: *Bind custom app icon in manifest*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- app/src/main/AndroidManifest.xml
+
