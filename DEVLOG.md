@@ -7657,3 +7657,9 @@ Die App ist modular aufgebaut und gliedert sich in folgende Komponenten:
 - DEVLOG.md
 - app/build.gradle
 
+## 📅 2025-09-10 – 11:44
+🔖 Commit: *🔧 CI-Fix: Upload beider APKs als ZIP-Artefakt wiederhergestellt*
+📂 Geänderte Dateien:
+- .github/workflows/android.yml
+- DEVLOG.md
+

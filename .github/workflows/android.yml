@@ -30,20 +30,11 @@ jobs:
       - name: Clean project
         run: gradle :app:clean
 
-      - name: Build Debug APK
-        run: gradle :app:assembleDebug --no-build-cache
+      - name: Build APKs
+        run: gradle :app:assembleDebug :app:assembleRelease --no-build-cache
 
-      - name: Build Release APK
-        run: gradle :app:assembleRelease --no-build-cache
-
-      - name: Prepare APKs for upload
-        run: |
-          mkdir -p artifacts
-          cp app/build/outputs/apk/debug/app-debug.apk artifacts/
-          cp app/build/outputs/apk/release/app-release.apk artifacts/
-
-      - name: Upload APKs as ZIP
+      - name: Upload APKs folder
         uses: actions/upload-artifact@v4
         with:
-          name: LinguaFlowAI-apks-${{ github.run_number }}
-          path: artifacts/
+          name: LinguaFlowAI-APK-${{ github.run_number }}
+          path: app/build/outputs/apk/
