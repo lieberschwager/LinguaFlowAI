@@ -7614,3 +7614,9 @@ Die App ist modular aufgebaut und gliedert sich in folgende Komponenten:
 📂 Geänderte Dateien:
 - DEVLOG.md
 
+## 📅 2025-09-10 – 09:31
+🔖 Commit: *🛠 Fix: Android-Build korrigiert, nur app-Modul, kein Cache*
+📂 Geänderte Dateien:
+- .github/workflows/android.yml
+- DEVLOG.md
+
