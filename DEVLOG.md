@@ -7778,3 +7778,9 @@ Die App ist modular aufgebaut und gliedert sich in folgende Komponenten:
 📂 Geänderte Dateien:
 - DEVLOG.md
 
+## 📅 2025-09-11 – 01:18
+🔖 Commit: *Fix malformed styles.xml: added missing <resources> root element*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- app/src/main/res/values/styles.xml
+
