@@ -7784,3 +7784,9 @@ Die App ist modular aufgebaut und gliedert sich in folgende Komponenten:
 - DEVLOG.md
 - app/src/main/res/values/styles.xml
 
+## 📅 2025-09-11 – 01:25
+🔖 Commit: *Fix AndroidManifest.xml: added missing <manifest> root element*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- app/src/main/AndroidManifest.xml
+

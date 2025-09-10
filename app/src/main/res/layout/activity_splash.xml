@@ -1,46 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <androidx.constraintlayout.motion.widget.MotionLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:app="http://schemas.android.com/apk/res-auto"
-    android:id="@+id/splashRoot"
+    xmlns:motion="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/motionLayout"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@color/black"
-    app:layoutDescription="@xml/scene_logo_motion">
+    motion:layoutDescription="@xml/scene_logo_motion">
 
-    <!-- 🌈 Rainbow Overlay -->
-    <View
-        android:id="@+id/rainbowOverlay"
-        android:layout_width="0dp"
-        android:layout_height="0dp"
-        android:background="@drawable/rainbow_gradient"
-        android:alpha="0.3"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"/>
-
-    <!-- 🖼️ Logo -->
+    <!-- Logo -->
     <ImageView
         android:id="@+id/logoWrapper"
         android:layout_width="160dp"
         android:layout_height="160dp"
-        android:src="@drawable/linguaflowai_logo"
-        android:contentDescription="Logo"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"/>
+        android:src="@drawable/ic_logo"
+        android:contentDescription="App Logo" />
 
-    <!-- 📝 Text -->
+    <!-- Titeltext -->
     <TextView
         android:id="@+id/titleText"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="LinguaFlow AI"
-        android:textColor="#FFFFFF"
+        android:text="LinguaFlowAI"
         android:textSize="24sp"
-        app:layout_constraintTop_toBottomOf="@id/logoWrapper"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"/>
+        android:textColor="@android:color/white"
+        android:textStyle="bold" />
+
+    <!-- Globus (z. B. WebView oder GLSurfaceView) -->
+    <WebView
+        android:id="@+id/globeView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@android:color/black"
+        android:visibility="visible" />
 
 </androidx.constraintlayout.motion.widget.MotionLayout>
