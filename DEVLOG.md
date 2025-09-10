@@ -7684,3 +7684,10 @@ Die App ist modular aufgebaut und gliedert sich in folgende Komponenten:
 - app/src/main/res/layout/activity_splash.xml
 - app/src/main/res/xml/scene_logo_motion.xml
 
+## 📅 2025-09-10 – 15:04
+🔖 Commit: *🚀 SplashScreen fertiggestellt: MotionScene, Farbverlauf, Logo/Text-Animation*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- app/src/main/res/layout/activity_splash.xml
+- app/src/main/res/xml/scene_logo_motion.xml
+
