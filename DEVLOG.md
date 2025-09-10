@@ -7810,3 +7810,9 @@ Die App ist modular aufgebaut und gliedert sich in folgende Komponenten:
 - app/src/main/res/drawable/ic_logo.png
 - app/src/main/res/drawable/linguaflowai_logo.png
 
+## 📅 2025-09-11 – 02:15
+🔖 Commit: *Fix MotionScene: use CustomAttributes for scaleX/scaleY*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- app/src/main/res/xml/scene_logo_motion.xml
+

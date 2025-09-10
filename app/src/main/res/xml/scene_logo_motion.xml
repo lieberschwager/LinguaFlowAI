@@ -14,10 +14,10 @@
             
             <CustomAttribute
                 motion:attributeName="scaleX"
-                motion:customFloat="1.0" />
+                motion:customFloatValue="1.0" />
             <CustomAttribute
                 motion:attributeName="scaleY"
-                motion:customFloat="1.0" />
+                motion:customFloatValue="1.0" />
         </Constraint>
 
         <Constraint android:id="@id/titleText"
@@ -30,7 +30,7 @@
             
             <CustomAttribute
                 motion:attributeName="alpha"
-                motion:customFloat="0.0" />
+                motion:customFloatValue="0.0" />
         </Constraint>
     </ConstraintSet>
 
@@ -46,10 +46,10 @@
             
             <CustomAttribute
                 motion:attributeName="scaleX"
-                motion:customFloat="0.6" />
+                motion:customFloatValue="0.6" />
             <CustomAttribute
                 motion:attributeName="scaleY"
-                motion:customFloat="0.6" />
+                motion:customFloatValue="0.6" />
         </Constraint>
 
         <Constraint android:id="@id/titleText"
@@ -62,7 +62,7 @@
             
             <CustomAttribute
                 motion:attributeName="alpha"
-                motion:customFloat="1.0" />
+                motion:customFloatValue="1.0" />
         </Constraint>
     </ConstraintSet>
 
