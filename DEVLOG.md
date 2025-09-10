@@ -7797,3 +7797,9 @@ Die App ist modular aufgebaut und gliedert sich in folgende Komponenten:
 - app/src/main/res/layout/activity_splash.xml
 - app/src/main/res/xml/scene_logo_motion.xml
 
+## 📅 2025-09-11 – 01:50
+🔖 Commit: *Fix styles and manifest, add splash layout, globe assets, and MotionScene*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- app/src/main/res/xml/scene_logo_motion.xml
+
