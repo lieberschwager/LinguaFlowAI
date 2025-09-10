@@ -7702,3 +7702,9 @@ Die App ist modular aufgebaut und gliedert sich in folgende Komponenten:
 📂 Geänderte Dateien:
 - DEVLOG.md
 
+## 📅 2025-09-10 – 15:24
+🔖 Commit: *🧹 Entfernt: scene_motion_logo.xml gelöscht, um Build-Fail zu beheben*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- app/src/main/res/xml/scene_motion_logo.xml
+
