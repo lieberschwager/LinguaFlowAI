@@ -32,12 +32,8 @@ public class SplashActivity extends Activity {
             splashText.startAnimation(textAnim);
         }, TEXT_DELAY_MS);
 
-        // Übergang zur Startseite nach definierter Zeit
+        // Nach TRANSITION_DELAY_MS zur StartActivity wechseln
         new Handler().postDelayed(() -> {
-            Animation fadeOut = AnimationUtils.loadAnimation(this, R.anim.fade_out);
-            splashText.startAnimation(fadeOut);
-            logo.startAnimation(fadeOut);
-
             Intent intent = new Intent(SplashActivity.this, StartActivity.class);
             startActivity(intent);
             overridePendingTransition(android.R.anim.fade_in, android.R.anim.fade_out);

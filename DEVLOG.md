@@ -7570,3 +7570,10 @@ Die App ist modular aufgebaut und gliedert sich in folgende Komponenten:
 - DEVLOG.md
 - app/src/main/java/com/linguaflow/myapp/SplashActivity.java
 
+## 📅 2025-09-10 – 07:32
+🔖 Commit: *🧹 Entfernt überflüssige Animationsdateien: fade_in, fade_out, slide*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- app/src/main/res/anim/fade_in.xml
+- app/src/main/res/anim/fade_out.xml
+
