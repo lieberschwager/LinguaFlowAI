@@ -2,7 +2,8 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:padding="24dp"
-    android:background="@color/backgroundLight">
+    android:background="@color/backgroundLight"
+    android:animateLayoutChanges="true">
 
     <!-- Titel -->
     <TextView
@@ -42,5 +43,6 @@
         android:layout_below="@id/darkModeSwitch"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="48dp"
-        android:contentDescription="Zurück zur Startseite" />
+        android:contentDescription="Zurück zur Startseite"
+        android:animation="@anim/button_bounce" />
 </RelativeLayout>

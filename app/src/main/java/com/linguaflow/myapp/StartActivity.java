@@ -38,7 +38,7 @@ public class StartActivity extends Activity {
         }
 
         try {
-            Animation bounce = AnimationUtils.loadAnimation(this, R.anim.start_button_bounce);
+            Animation bounce = AnimationUtils.loadAnimation(this, R.anim.button_bounce);
             startButton.startAnimation(bounce);
         } catch (Exception e) {
             Toast.makeText(this, "Button-Animation fehlt oder fehlerhaft", Toast.LENGTH_SHORT).show();
@@ -50,6 +50,7 @@ public class StartActivity extends Activity {
         startButton.setOnClickListener(v -> {
             Intent intent = new Intent(StartActivity.this, SettingsActivity.class);
             startActivity(intent);
+            overridePendingTransition(R.anim.text_fade_in, R.anim.start_fade_out);
         });
     }
 }

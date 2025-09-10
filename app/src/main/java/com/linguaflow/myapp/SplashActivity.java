@@ -28,7 +28,7 @@ public class SplashActivity extends Activity {
 
         // Starte Text-Animation nach kurzer Verzögerung
         new Handler().postDelayed(() -> {
-            Animation textAnim = AnimationUtils.loadAnimation(this, R.anim.text_enter);
+            Animation textAnim = AnimationUtils.loadAnimation(this, R.anim.text_fade_in);
             splashText.startAnimation(textAnim);
         }, TEXT_DELAY_MS);
 
@@ -36,7 +36,7 @@ public class SplashActivity extends Activity {
         new Handler().postDelayed(() -> {
             Intent intent = new Intent(SplashActivity.this, StartActivity.class);
             startActivity(intent);
-            overridePendingTransition(android.R.anim.fade_in, android.R.anim.fade_out);
+            overridePendingTransition(R.anim.text_fade_in, R.anim.start_fade_out);
             finish();
         }, TRANSITION_DELAY_MS);
     }

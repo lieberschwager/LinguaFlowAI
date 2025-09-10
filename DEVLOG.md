@@ -7583,3 +7583,9 @@ Die App ist modular aufgebaut und gliedert sich in folgende Komponenten:
 - DEVLOG.md
 - app/src/main/java/com/linguaflow/myapp/SplashActivity.java
 
+## 📅 2025-09-10 – 07:59
+🔖 Commit: *🔧 Android CI: Clean-Build hinzugefügt, um alte Ressourcen zu entfernen*
+📂 Geänderte Dateien:
+- .github/workflows/android.yml
+- DEVLOG.md
+
