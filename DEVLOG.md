@@ -7803,3 +7803,10 @@ Die App ist modular aufgebaut und gliedert sich in folgende Komponenten:
 - DEVLOG.md
 - app/src/main/res/xml/scene_logo_motion.xml
 
+## 📅 2025-09-11 – 02:10
+🔖 Commit: *Add new logo as linguaflowai_logo and ic_logo for splash screen*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- app/src/main/res/drawable/ic_logo.png
+- app/src/main/res/drawable/linguaflowai_logo.png
+

@@ -10,9 +10,15 @@
             motion:layout_constraintTop_toTopOf="parent"
             motion:layout_constraintStart_toStartOf="parent"
             motion:layout_constraintEnd_toEndOf="parent"
-            android:layout_marginTop="0dp"
-            motion:scaleX="1.0"
-            motion:scaleY="1.0"/>
+            android:layout_marginTop="0dp">
+            
+            <CustomAttribute
+                motion:attributeName="scaleX"
+                motion:customFloat="1.0" />
+            <CustomAttribute
+                motion:attributeName="scaleY"
+                motion:customFloat="1.0" />
+        </Constraint>
 
         <Constraint android:id="@id/titleText"
             android:layout_width="wrap_content"
@@ -20,8 +26,12 @@
             motion:layout_constraintBottom_toBottomOf="parent"
             motion:layout_constraintStart_toStartOf="parent"
             motion:layout_constraintEnd_toEndOf="parent"
-            android:layout_marginBottom="0dp"
-            motion:alpha="0.0"/>
+            android:layout_marginBottom="0dp">
+            
+            <CustomAttribute
+                motion:attributeName="alpha"
+                motion:customFloat="0.0" />
+        </Constraint>
     </ConstraintSet>
 
     <!-- End-Zustand -->
@@ -32,9 +42,15 @@
             motion:layout_constraintTop_toTopOf="parent"
             motion:layout_constraintEnd_toEndOf="parent"
             android:layout_marginTop="32dp"
-            android:layout_marginEnd="32dp"
-            motion:scaleX="0.6"
-            motion:scaleY="0.6"/>
+            android:layout_marginEnd="32dp">
+            
+            <CustomAttribute
+                motion:attributeName="scaleX"
+                motion:customFloat="0.6" />
+            <CustomAttribute
+                motion:attributeName="scaleY"
+                motion:customFloat="0.6" />
+        </Constraint>
 
         <Constraint android:id="@id/titleText"
             android:layout_width="wrap_content"
@@ -42,8 +58,12 @@
             motion:layout_constraintTop_toBottomOf="@id/logoWrapper"
             motion:layout_constraintStart_toStartOf="parent"
             motion:layout_constraintEnd_toEndOf="parent"
-            android:layout_marginTop="16dp"
-            motion:alpha="1.0"/>
+            android:layout_marginTop="16dp">
+            
+            <CustomAttribute
+                motion:attributeName="alpha"
+                motion:customFloat="1.0" />
+        </Constraint>
     </ConstraintSet>
 
     <!-- Übergang -->
@@ -51,6 +71,6 @@
         motion:constraintSetStart="@id/start"
         motion:constraintSetEnd="@id/end"
         motion:duration="1800"
-        motion:motionInterpolator="@android:interpolator/accelerate_decelerate"/>
+        motion:motionInterpolator="@android:interpolator/accelerate_decelerate" />
 
 </MotionScene>
