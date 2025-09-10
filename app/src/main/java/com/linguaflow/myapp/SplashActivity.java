@@ -4,30 +4,25 @@ import android.app.Activity;
 import android.content.Intent;
 import android.os.Bundle;
 import android.os.Handler;
-import android.view.animation.Animation;
-import android.view.animation.AnimationUtils;
-import android.widget.ImageView;
+import android.widget.RelativeLayout;
 
 public class SplashActivity extends Activity {
 
-    private static final int TRANSITION_DELAY_MS = 6000;
+    private static final int TRANSITION_DELAY_MS = 3000;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.splash);
 
-        ImageView logo = findViewById(R.id.logo);
+        // Dynamisch erzeugtes Layout mit splash_background als Hintergrund
+        RelativeLayout layout = new RelativeLayout(this);
+        layout.setBackgroundResource(R.drawable.splash_background);
 
-        // Starte Logo-Animation
-        Animation logoAnim = AnimationUtils.loadAnimation(this, R.anim.logo_enter);
-        logo.startAnimation(logoAnim);
+        setContentView(layout);
 
-        // Nach TRANSITION_DELAY_MS zur StartActivity wechseln
+        // Nach kurzer Verzögerung zur StartActivity wechseln
         new Handler().postDelayed(() -> {
-            Intent intent = new Intent(SplashActivity.this, StartActivity.class);
-            startActivity(intent);
-            overridePendingTransition(R.anim.text_fade_in, R.anim.start_fade_out);
+            startActivity(new Intent(SplashActivity.this, StartActivity.class));
             finish();
         }, TRANSITION_DELAY_MS);
     }

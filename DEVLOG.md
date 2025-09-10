@@ -7626,3 +7626,9 @@ Die App ist modular aufgebaut und gliedert sich in folgende Komponenten:
 - DEVLOG.md
 - app/src/main/res/layout/splash.xml
 
+## 📅 2025-09-10 – 09:57
+🔖 Commit: *🔥 Entfernt Begrüßungstext und zugehörige Animation aus SplashActivity*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- app/src/main/java/com/linguaflow/myapp/SplashActivity.java
+

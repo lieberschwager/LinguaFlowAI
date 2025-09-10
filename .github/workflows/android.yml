@@ -1,4 +1,4 @@
-name: Build APK
+name: Build APKs
 
 on:
   push:
@@ -7,7 +7,7 @@ on:
 
 jobs:
   build:
-    name: Build APK
+    name: Build Debug & Release APKs
     runs-on: ubuntu-latest
 
     steps:
@@ -27,13 +27,23 @@ jobs:
           echo "GRADLE_HOME=$PWD/gradle-8.0" >> $GITHUB_ENV
           echo "$PWD/gradle-8.0/bin" >> $GITHUB_PATH
 
-      - name: Clean and Build APK (no cache)
-        run: |
-          gradle :app:clean
-          gradle :app:assembleDebug --no-build-cache
+      - name: Clean project
+        run: gradle :app:clean
 
-      - name: Upload APK
+      - name: Build Debug APK
+        run: gradle :app:assembleDebug --no-build-cache
+
+      - name: Build Release APK
+        run: gradle :app:assembleRelease --no-build-cache
+
+      - name: Upload Debug APK
         uses: actions/upload-artifact@v4
         with:
-          name: LinguaFlowAI-APK-${{ github.run_number }}
+          name: LinguaFlowAI-debug-${{ github.run_number }}
           path: app/build/outputs/apk/debug/app-debug.apk
+
+      - name: Upload Release APK
+        uses: actions/upload-artifact@v4
+        with:
+          name: LinguaFlowAI-release-${{ github.run_number }}
+          path: app/build/outputs/apk/release/app-release.apk
