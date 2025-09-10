@@ -7651,3 +7651,9 @@ Die App ist modular aufgebaut und gliedert sich in folgende Komponenten:
 📂 Geänderte Dateien:
 - DEVLOG.md
 
+## 📅 2025-09-10 – 11:28
+🔖 Commit: *🔧 Release-Build ohne Keystore: debugfähig gemacht für CI-Artefakt-Erzeugung*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- app/build.gradle
+

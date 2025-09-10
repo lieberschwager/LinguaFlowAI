@@ -36,17 +36,14 @@ jobs:
       - name: Build Release APK
         run: gradle :app:assembleRelease --no-build-cache
 
-      - name: Ensure release folder exists
-        run: mkdir -p app/build/outputs/apk/release
+      - name: Prepare APKs for upload
+        run: |
+          mkdir -p artifacts
+          cp app/build/outputs/apk/debug/app-debug.apk artifacts/
+          cp app/build/outputs/apk/release/app-release.apk artifacts/
 
-      - name: Upload Debug APK
+      - name: Upload APKs as ZIP
         uses: actions/upload-artifact@v4
         with:
-          name: LinguaFlowAI-debug-${{ github.run_number }}
-          path: app/build/outputs/apk/debug/app-debug.apk
-
-      - name: Upload Release APK
-        uses: actions/upload-artifact@v4
-        with:
-          name: LinguaFlowAI-release-${{ github.run_number }}
-          path: app/build/outputs/apk/release/app-release.apk
+          name: LinguaFlowAI-apks-${{ github.run_number }}
+          path: artifacts/
