@@ -7745,3 +7745,13 @@ Die App ist modular aufgebaut und gliedert sich in folgende Komponenten:
 - DEVLOG.md
 - app/src/main/res/layout/activity_splash.xml
 
+## 📅 2025-09-10 – 21:54
+🔖 Commit: *Add custom app icon in all mipmap resolutions*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- app/src/main/res/mipmap-hdpi/ic_launcher.png
+- app/src/main/res/mipmap-mdpi/ic_launcher.png
+- app/src/main/res/mipmap-xhdpi/ic_launcher.png
+- app/src/main/res/mipmap-xxhdpi/ic_launcher.png
+- app/src/main/res/mipmap-xxxhdpi/ic_launcher.png
+
