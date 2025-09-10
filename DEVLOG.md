@@ -7675,3 +7675,12 @@ Die App ist modular aufgebaut und gliedert sich in folgende Komponenten:
 - DEVLOG.md
 - app/src/main/res/xml/scene_motion_logo.xml
 
+## 📅 2025-09-10 – 14:40
+🔖 Commit: *✅ SplashScreen integriert: Layout, Ressourcen, SplashActivity*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- app/src/main/java/com/linguaflow/myapp/SplashActivity.java
+- app/src/main/res/drawable/rainbow_gradient.xml
+- app/src/main/res/layout/activity_splash.xml
+- app/src/main/res/xml/scene_logo_motion.xml
+
