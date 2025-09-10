@@ -7646,3 +7646,8 @@ Die App ist modular aufgebaut und gliedert sich in folgende Komponenten:
 - .github/workflows/android.yml
 - DEVLOG.md
 
+## 📅 2025-09-10 – 11:17
+🔖 Commit: *🔧 Release-Build debugfähig gemacht für CI-Testlauf*
+📂 Geänderte Dateien:
+- DEVLOG.md
+

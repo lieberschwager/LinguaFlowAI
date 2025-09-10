@@ -18,7 +18,9 @@ android {
 
     buildTypes {
         release {
+            debuggable true // ← wichtig für CI ohne Keystore
             minifyEnabled false
+            shrinkResources false
             proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
         }
     }
