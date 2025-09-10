@@ -7773,3 +7773,8 @@ Die App ist modular aufgebaut und gliedert sich in folgende Komponenten:
 - app/src/main/java/com/linguaflow/myapp/SplashActivity.java
 - app/src/main/res/values/styles.xml
 
+## 📅 2025-09-11 – 01:00
+🔖 Commit: *Add rotating globe with local textures and Three.js integration; updated styles.xml for dynamic splash theme*
+📂 Geänderte Dateien:
+- DEVLOG.md
+
