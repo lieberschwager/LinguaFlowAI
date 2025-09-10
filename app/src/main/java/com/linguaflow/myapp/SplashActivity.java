@@ -1,29 +1,22 @@
-package com.linguaflow.myapp;
+package com.linguaflowai.app; // ← Passe das an deinen tatsächlichen Package-Namen an
 
-import android.app.Activity;
-import android.content.Intent;
+import android.animation.ObjectAnimator;
 import android.os.Bundle;
-import android.os.Handler;
-import android.widget.RelativeLayout;
+import android.view.View;
+import androidx.appcompat.app.AppCompatActivity;
 
-public class SplashActivity extends Activity {
-
-    private static final int TRANSITION_DELAY_MS = 3000;
-
+public class SplashActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+        setContentView(R.layout.activity_splash);
 
-        // Dynamisch erzeugtes Layout mit splash_background als Hintergrund
-        RelativeLayout layout = new RelativeLayout(this);
-        layout.setBackgroundResource(R.drawable.splash_background);
+        View rainbowOverlay = findViewById(R.id.rainbowOverlay);
 
-        setContentView(layout);
-
-        // Nach kurzer Verzögerung zur StartActivity wechseln
-        new Handler().postDelayed(() -> {
-            startActivity(new Intent(SplashActivity.this, StartActivity.class));
-            finish();
-        }, TRANSITION_DELAY_MS);
+        ObjectAnimator animator = ObjectAnimator.ofFloat(rainbowOverlay, "translationX", -200f, 200f);
+        animator.setDuration(4000);
+        animator.setRepeatMode(ObjectAnimator.REVERSE);
+        animator.setRepeatCount(ObjectAnimator.INFINITE);
+        animator.start();
     }
 }

@@ -1,0 +1,44 @@
+<androidx.constraintlayout.motion.widget.MotionLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/motionLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layoutDescription="@xml/scene_logo_motion"
+    android:background="#111111">
+
+    <FrameLayout
+        android:id="@+id/logoWrapper"
+        android:layout_width="160dp"
+        android:layout_height="160dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <ImageView
+            android:id="@+id/logo"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:src="@drawable/linguaflowai_logo"
+            android:contentDescription="App Logo"
+            android:scaleType="centerCrop"/>
+
+        <View
+            android:id="@+id/rainbowOverlay"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@drawable/rainbow_gradient"
+            android:alpha="0.35"/>
+    </FrameLayout>
+
+    <TextView
+        android:id="@+id/titleText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="LinguaFlowAI"
+        android:textSize="22sp"
+        android:textStyle="bold"
+        android:letterSpacing="0.02"
+        android:alpha="1"
+        app:layout_constraintStart_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent"/>
+</androidx.constraintlayout.motion.widget.MotionLayout>
