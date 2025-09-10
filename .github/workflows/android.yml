@@ -27,6 +27,9 @@ jobs:
           echo "GRADLE_HOME=$PWD/gradle-8.0" >> $GITHUB_ENV
           echo "$PWD/gradle-8.0/bin" >> $GITHUB_PATH
 
+      - name: Clean project
+        run: gradle clean
+
       - name: Build with Gradle
         run: gradle build
 
