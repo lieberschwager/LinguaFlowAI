@@ -7589,3 +7589,17 @@ Die App ist modular aufgebaut und gliedert sich in folgende Komponenten:
 - .github/workflows/android.yml
 - DEVLOG.md
 
+## 📅 2025-09-10 – 08:53
+🔖 Commit: *🔧 Alle Änderungen für sauberen APK-Build übernommen*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- app/src/main/java/com/linguaflow/myapp/SettingsActivity.java
+- app/src/main/java/com/linguaflow/myapp/SplashActivity.java
+- app/src/main/java/com/linguaflow/myapp/StartActivity.java
+- app/src/main/res/anim/button_bounce.xml
+- app/src/main/res/anim/logo_enter.xml
+- app/src/main/res/anim/slide_down.xml
+- app/src/main/res/anim/slide_up.xml
+- app/src/main/res/anim/text_enter.xml
+- app/src/main/res/layout/activity_settings.xml
+
