@@ -7733,3 +7733,9 @@ Die App ist modular aufgebaut und gliedert sich in folgende Komponenten:
 - DEVLOG.md
 - app/src/main/res/values/colors.xml
 
+## 📅 2025-09-10 – 16:25
+🔖 Commit: *⏳ SplashScreen-Fix: Dauer auf 20 Sekunden gesetzt, Weiterleitung zu StartActivity*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- app/src/main/java/com/linguaflow/myapp/SplashActivity.java
+
