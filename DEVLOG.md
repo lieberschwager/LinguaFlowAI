@@ -7564,3 +7564,9 @@ Die App ist modular aufgebaut und gliedert sich in folgende Komponenten:
 - app/src/main/res/anim/logo_enter.xml
 - app/src/main/res/anim/text_enter.xml
 
+## 📅 2025-09-10 – 01:35
+🔖 Commit: *🔥 Splashscreen neu aufgebaut: saubere Animationen, keine Duplikate, flüssiger Übergang*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- app/src/main/java/com/linguaflow/myapp/SplashActivity.java
+
