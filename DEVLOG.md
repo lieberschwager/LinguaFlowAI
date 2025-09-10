@@ -7620,3 +7620,9 @@ Die App ist modular aufgebaut und gliedert sich in folgende Komponenten:
 - .github/workflows/android.yml
 - DEVLOG.md
 
+## 📅 2025-09-10 – 09:51
+🔖 Commit: *🧹 Entfernt TextView aus SplashScreen für sauberen Test*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- app/src/main/res/layout/splash.xml
+
