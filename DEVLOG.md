@@ -7715,3 +7715,9 @@ Die App ist modular aufgebaut und gliedert sich in folgende Komponenten:
 - app/src/main/java/com/linguaflow/myapp/SplashActivity.java
 - app/src/main/res/layout/activity_splash.xml
 
+## 📅 2025-09-10 – 15:57
+🔖 Commit: *🎨 Farben ergänzt: black definiert für SplashScreen und Theme-Kontrolle*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- app/src/main/res/values/colors.xml
+
