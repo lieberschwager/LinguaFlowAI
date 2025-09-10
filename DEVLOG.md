@@ -7790,3 +7790,10 @@ Die App ist modular aufgebaut und gliedert sich in folgende Komponenten:
 - DEVLOG.md
 - app/src/main/AndroidManifest.xml
 
+## 📅 2025-09-11 – 01:43
+🔖 Commit: *Integrate splash animation and rotating globe: add MotionScene, WebView, assets, and fix styles/manifest*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- app/src/main/res/layout/activity_splash.xml
+- app/src/main/res/xml/scene_logo_motion.xml
+
