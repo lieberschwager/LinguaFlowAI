@@ -7721,3 +7721,9 @@ Die App ist modular aufgebaut und gliedert sich in folgende Komponenten:
 - DEVLOG.md
 - app/src/main/res/values/colors.xml
 
+## 📅 2025-09-10 – 16:03
+🔖 Commit: *✅ SplashScreen vollständig integriert: Layout, Activity, Farben, Theme-Fix*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- app/src/main/res/values/colors.xml
+

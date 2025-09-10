@@ -4,8 +4,13 @@
     <color name="black">#000000</color>
     <color name="white">#FFFFFF</color>
 
-    <!-- Theme-Farben für AppCompat -->
+    <!-- Theme-Farben -->
     <color name="colorPrimary">#6200EE</color>
     <color name="colorPrimaryDark">#3700B3</color>
     <color name="colorAccent">#03DAC5</color>
+
+    <!-- Fehlende Farben aus Layouts & Drawables -->
+    <color name="buttonPressed">#FF9800</color>         <!-- Orange für gedrückten Button -->
+    <color name="textDark">#212121</color>              <!-- Dunkles Grau für Text -->
+    <color name="backgroundLight">#F5F5F5</color>       <!-- Helles Grau für Hintergrund -->
 </resources>
