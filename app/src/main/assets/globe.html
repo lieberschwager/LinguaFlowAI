@@ -31,7 +31,7 @@
     const earthTexture = textureLoader.load('textures/earth-dark.jpg');
     const bumpMap = textureLoader.load('textures/earth-bump.jpg');
 
-    const geometry = new THREE.SphereGeometry(2, 64, 64);
+    const geometry = new THREE.SphereGeometry(1.6, 64, 64); // ← leicht geschrumpft
     const material = new THREE.MeshStandardMaterial({
       map: earthTexture,
       bumpMap: bumpMap,
@@ -45,7 +45,7 @@
     light.position.set(5, 5, 5);
     scene.add(light);
 
-    camera.position.z = 5;
+    camera.position.z = 5.5; // ← etwas weiter weg für mehr Luft
 
     function animate() {
       requestAnimationFrame(animate);
