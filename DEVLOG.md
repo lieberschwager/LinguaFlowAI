@@ -7853,3 +7853,11 @@ Die App ist modular aufgebaut und gliedert sich in folgende Komponenten:
 📂 Geänderte Dateien:
 - DEVLOG.md
 
+## 📅 2025-09-11 – 10:14
+🔖 Commit: *✅ Layout-Fix: Alle XML-Dateien geprüft & korrigiert für stabilen Build*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- app/src/main/res/layout/activity_settings.xml
+- app/src/main/res/layout/activity_splash.xml
+- app/src/main/res/layout/activity_start.xml
+
