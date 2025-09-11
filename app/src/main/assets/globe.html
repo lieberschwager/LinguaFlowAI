@@ -9,7 +9,7 @@
   </style>
 </head>
 <body>
-  <script src="three.min.js"></script> <!-- Lokale Three.js-Datei -->
+  <script src="three.min.js"></script>
   <script>
     const scene = new THREE.Scene();
     const camera = new THREE.PerspectiveCamera(75, window.innerWidth/window.innerHeight, 0.1, 1000);
@@ -17,10 +17,17 @@
     renderer.setSize(window.innerWidth, window.innerHeight);
     document.body.appendChild(renderer.domElement);
 
-    const geometry = new THREE.SphereGeometry(2, 64, 64);
     const textureLoader = new THREE.TextureLoader();
-    const texture = textureLoader.load('earth.jpg'); // Lokale Textur
-    const material = new THREE.MeshStandardMaterial({ map: texture });
+    const earthTexture = textureLoader.load('textures/earth-dark.jpg');
+    const bumpMap = textureLoader.load('textures/earth-bump.jpg');
+
+    const geometry = new THREE.SphereGeometry(2, 64, 64);
+    const material = new THREE.MeshStandardMaterial({
+      map: earthTexture,
+      bumpMap: bumpMap,
+      bumpScale: 0.05
+    });
+
     const globe = new THREE.Mesh(geometry, material);
     scene.add(globe);
 

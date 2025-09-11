@@ -7828,3 +7828,9 @@ Die App ist modular aufgebaut und gliedert sich in folgende Komponenten:
 - DEVLOG.md
 - app/src/main/java/com/linguaflow/myapp/SplashActivity.java
 
+## 📅 2025-09-11 – 02:57
+🔖 Commit: *Fix: add constraints to MotionLayout views*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- app/src/main/res/layout/activity_splash.xml
+
