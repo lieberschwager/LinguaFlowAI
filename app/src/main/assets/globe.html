@@ -32,7 +32,7 @@
     const bumpMap = textureLoader.load('textures/earth-bump.jpg');
 
     const geometry = new THREE.SphereGeometry(1.8, 64, 64); // ← 10 % kleiner
-    const material = new THREE.MeshStandardMaterial({
+    const material = new THREE.MeshBasicMaterial({
       map: earthTexture,
       bumpMap: bumpMap,
       bumpScale: 0.05
