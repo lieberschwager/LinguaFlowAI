@@ -8227,3 +8227,15 @@ app/src/main/java/com/linguaflow/myapp/SplashActivity.java
 - DEVLOG.md
 - app/src/main/assets/globe.html
 
+**2025-09-11 20:56**
+- Branch: main
+- Commit vorbereitet mit folgenden Dateien:
+  - DEVLOG.md
+  - app/src/main/assets/globe.html
+
+## 📅 2025-09-11 – 20:56
+🔖 Commit: *🔄 Aktualisiert: globe.html mit Radius 1.8 & neue three.min.js (v0.158.0)*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- app/src/main/assets/globe.html
+
