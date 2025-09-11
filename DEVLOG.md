@@ -7842,3 +7842,9 @@ Die App ist modular aufgebaut und gliedert sich in folgende Komponenten:
 - app/src/main/res/drawable/linguaflowai_text.png
 - app/src/main/res/raw/language_map.json
 
+## 📅 2025-09-11 – 09:44
+🔖 Commit: *🛠️ Manifest-Fix: package entfernt für Gradle-Kompatibilität*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- app/src/main/AndroidManifest.xml
+
