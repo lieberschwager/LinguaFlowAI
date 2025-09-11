@@ -7848,3 +7848,8 @@ Die App ist modular aufgebaut und gliedert sich in folgende Komponenten:
 - DEVLOG.md
 - app/src/main/AndroidManifest.xml
 
+## 📅 2025-09-11 – 09:51
+🔖 Commit: *🛠️ Manifest-Fix: package entfernt für Gradle-Kompatibilität*
+📂 Geänderte Dateien:
+- DEVLOG.md
+
