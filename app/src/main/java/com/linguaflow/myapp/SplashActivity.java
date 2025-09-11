@@ -1,27 +1,24 @@
-package com.linguaflow.myapp;
+package com.linguaflowai;
 
 import android.os.Bundle;
+import android.webkit.WebSettings;
 import android.webkit.WebView;
-import android.webkit.WebViewClient;
 import androidx.appcompat.app.AppCompatActivity;
-import androidx.constraintlayout.motion.widget.MotionLayout;
-import com.linguaflow.myapp.R;
 
 public class SplashActivity extends AppCompatActivity {
+
+    private WebView globeView;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_splash);
 
-        // MotionLayout starten
-        MotionLayout motionLayout = findViewById(R.id.motionLayout);
-        motionLayout.transitionToEnd();
+        globeView = new WebView(this);
+        setContentView(globeView);
 
-        // Globus laden
-        WebView globeView = findViewById(R.id.globeView);
-        globeView.getSettings().setJavaScriptEnabled(true);
-        globeView.setWebViewClient(new WebViewClient());
+        WebSettings webSettings = globeView.getSettings();
+        webSettings.setJavaScriptEnabled(true);
+
         globeView.loadUrl("file:///android_asset/globe.html");
     }
 }

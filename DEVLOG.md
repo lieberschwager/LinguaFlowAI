@@ -7873,3 +7873,8 @@ Die App ist modular aufgebaut und gliedert sich in folgende Komponenten:
 - DEVLOG.md
 - app/src/main/res/layout/start.xml
 
+## 📅 2025-09-11 – 11:25
+🔖 Commit: *🚫 SplashActivity bereinigt: keine Weiterleitung, WebView bleibt sichtbar*
+📂 Geänderte Dateien:
+- DEVLOG.md
+
