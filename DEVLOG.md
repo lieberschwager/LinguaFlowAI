@@ -1,3 +1,9 @@
+## 2025-09-11 15:23
+Branch: main
+Commit vorbereitet mit folgenden Dateien:
+DEVLOG.md
+app/src/main/res/values/styles.xml
+
 ## 2025-09-11 15:09
 Branch: main
 Commit vorbereitet mit folgenden Dateien:
@@ -7979,4 +7985,9 @@ app/src/main/java/com/linguaflow/myapp/SplashActivity.java
 📂 Geänderte Dateien:
 - DEVLOG.md
 - app/src/main/res/layout/activity_splash.xml
+## 📅 2025-09-11 – 15:23
+🔖 Commit: *🎨 Styles bereinigt: windowBackground systemseitig, kein Schwarz mehr*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- app/src/main/res/values/styles.xml
 

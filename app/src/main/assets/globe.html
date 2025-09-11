@@ -4,8 +4,16 @@
   <meta charset="UTF-8" />
   <title>LinguaFlowAI Globe</title>
   <style>
-    body { margin: 0; overflow: hidden; background-color: #000; color: #0f0; font-family: sans-serif; }
-    canvas { display: block; }
+    body {
+      margin: 0;
+      overflow: hidden;
+      background-color: transparent; /* Schwarz entfernt */
+      color: #0f0;
+      font-family: sans-serif;
+    }
+    canvas {
+      display: block;
+    }
     #status {
       position: absolute;
       top: 40%;
@@ -18,7 +26,11 @@
 <body>
   <div id="status">Checking WebGL support...</div>
 
+  <!-- Three.js bleibt aktiv -->
   <script src="three.min.js"></script>
+
+  <!-- Szene & WebGL-Test auskommentiert -->
+  <!--
   <script>
     function isWebGLAvailable() {
       try {
@@ -71,5 +83,7 @@
       animate();
     }
   </script>
+  -->
+
 </body>
 </html>
