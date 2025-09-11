@@ -1,3 +1,9 @@
+## 2025-09-11 14:15
+Branch: main
+Commit vorbereitet mit folgenden Dateien:
+DEVLOG.md
+app/src/main/res/layout/activity_splash.xml
+
 ## 2025-09-11 14:05
 Branch: main
 Commit vorbereitet mit folgenden Dateien:
@@ -7943,6 +7949,11 @@ app/src/main/java/com/linguaflow/myapp/SplashActivity.java
 - app/src/main/java/com/linguaflow/myapp/SplashActivity.java
 ## 📅 2025-09-11 – 14:05
 🔖 Commit: *🚫 Animation deaktiviert: scene_logo_motion auskommentiert, WebView nach oben verschoben*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- app/src/main/res/layout/activity_splash.xml
+## 📅 2025-09-11 – 14:15
+🔖 Commit: *🧹 SplashView bereinigt: TextView deaktiviert, WebView nach oben, MotionScene bleibt aktiv*
 📂 Geänderte Dateien:
 - DEVLOG.md
 - app/src/main/res/layout/activity_splash.xml
