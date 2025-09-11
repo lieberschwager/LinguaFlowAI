@@ -1,3 +1,20 @@
+**2025-09-11 17:39**
+- Branch: main
+- Commit: Transparenz-Fix für WebView
+- Geänderte Dateien:
+  - app/src/main/java/com/linguaflow/myapp/SplashActivity.java
+  - app/src/main/res/values/styles.xml
+  - app/src/main/assets/globe.html
+- Beschreibung:
+  - Globus um 10 % geschrumpft (Radius 1.8)
+  - styles.xml angepasst: `windowBackground` transparent gesetzt
+  - SplashActivity überarbeitet: WebView-Hintergrund transparent, LayerType entfernt
+
+## 2025-09-11 17:41
+Branch: main
+Commit vorbereitet mit folgenden Dateien:
+DEVLOG.md
+
 ## 2025-09-11 17:27
 Branch: main
 Commit vorbereitet mit folgenden Dateien:
@@ -8089,4 +8106,8 @@ app/src/main/java/com/linguaflow/myapp/SplashActivity.java
 📂 Geänderte Dateien:
 - DEVLOG.md
 - app/src/main/java/com/linguaflow/myapp/SplashActivity.java
+## 📅 2025-09-11 – 17:41
+🔖 Commit: *📝 DEVLOG aktualisiert: Transparenz-Fix und Globus-Optimierung dokumentiert*
+📂 Geänderte Dateien:
+- DEVLOG.md
 
