@@ -7867,3 +7867,9 @@ Die App ist modular aufgebaut und gliedert sich in folgende Komponenten:
 - DEVLOG.md
 - app/src/main/assets/globe.html
 
+## 📅 2025-09-11 – 11:25
+🔖 Commit: *🧹 Entfernt: MainActivity und start.xml nicht mehr benötigt*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- app/src/main/res/layout/start.xml
+
