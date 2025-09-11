@@ -8141,3 +8141,17 @@ app/src/main/java/com/linguaflow/myapp/SplashActivity.java
 📂 Geänderte Dateien:
 - DEVLOG.md
 
+**2025-09-11 18:54**
+- Branch: main
+- Commit vorbereitet mit folgenden Dateien:
+  - DEVLOG.md
+  - app/src/main/java/com/linguaflow/myapp/SplashActivity.java
+  - app/src/main/res/layout/activity_start.xml
+
+## 📅 2025-09-11 – 18:54
+🔖 Commit: *🚀 Mintgrüner Globe + Layout-Fix für Startscreen*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- app/src/main/java/com/linguaflow/myapp/SplashActivity.java
+- app/src/main/res/layout/activity_start.xml
+
