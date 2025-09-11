@@ -1,3 +1,9 @@
+## 2025-09-11 16:54
+Branch: main
+Commit vorbereitet mit folgenden Dateien:
+DEVLOG.md
+app/src/main/assets/globe.html
+
 ## 2025-09-11 16:30
 Branch: main
 Commit vorbereitet mit folgenden Dateien:
@@ -8042,6 +8048,11 @@ app/src/main/java/com/linguaflow/myapp/SplashActivity.java
 - app/src/main/assets/globe.html
 ## 📅 2025-09-11 – 16:30
 🔖 Commit: *📏 globe.html: Globus um 5 % geschrumpft (Radius 1.9 statt 2.0)*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- app/src/main/assets/globe.html
+## 📅 2025-09-11 – 16:54
+🔖 Commit: *🪐 globe.html: Globus um 10 % geschrumpft (Radius 1.8 statt 2.0)*
 📂 Geänderte Dateien:
 - DEVLOG.md
 - app/src/main/assets/globe.html
