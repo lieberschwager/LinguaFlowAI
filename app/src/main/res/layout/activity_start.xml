@@ -1,35 +1,12 @@
-<?xml version="1.0" encoding="utf-8"?>
-<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    android:layout_width="match_parent"
-    android:layout_height="match_parent"
-    android:padding="24dp"
-    android:background="@color/backgroundLight">
+package com.linguaflow.myapp;
 
-    <!-- Begrüßungstext -->
-    <TextView
-        android:id="@+id/welcomeText"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="Willkommen bei LinguaFlowAI"
-        android:textSize="22sp"
-        android:textStyle="bold"
-        android:textColor="@color/textDark"
-        android:gravity="center"
-        android:layout_marginTop="120dp"
-        android:layout_centerHorizontal="true"
-        android:contentDescription="Begrüßungstext" />
+import android.app.Activity;
+import android.os.Bundle;
 
-    <!-- Startbutton -->
-    <Button
-        android:id="@+id/startButton"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Los geht’s"
-        android:textSize="18sp"
-        android:textColor="@color/white"
-        android:background="@drawable/button_primary"
-        android:layout_below="@id/welcomeText"
-        android:layout_centerHorizontal="true"
-        android:layout_marginTop="48dp"
-        android:contentDescription="Startbutton" />
-</RelativeLayout>
+public class StartActivity extends Activity {
+    @Override
+    protected void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+        setContentView(R.layout.activity_start);
+    }
+}

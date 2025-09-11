@@ -8131,3 +8131,13 @@ app/src/main/java/com/linguaflow/myapp/SplashActivity.java
 - DEVLOG.md
 - app/src/main/java/com/linguaflow/myapp/SplashActivity.java
 
+**2025-09-11 18:16**
+- Branch: main
+- Commit vorbereitet mit folgenden Dateien:
+  - DEVLOG.md
+
+## 📅 2025-09-11 – 18:16
+🔖 Commit: *Test: Hook mit absolutem Pfad*
+📂 Geänderte Dateien:
+- DEVLOG.md
+
