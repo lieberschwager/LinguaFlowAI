@@ -1,3 +1,9 @@
+## 2025-09-11 17:00
+Branch: main
+Commit vorbereitet mit folgenden Dateien:
+DEVLOG.md
+app/src/main/res/values/styles.xml
+
 ## 2025-09-11 16:54
 Branch: main
 Commit vorbereitet mit folgenden Dateien:
@@ -8056,4 +8062,9 @@ app/src/main/java/com/linguaflow/myapp/SplashActivity.java
 📂 Geänderte Dateien:
 - DEVLOG.md
 - app/src/main/assets/globe.html
+## 📅 2025-09-11 – 17:00
+🔖 Commit: *🎨 styles.xml aktualisiert: windowBackground explizit transparent gesetzt für WebView-Kompatibilität*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- app/src/main/res/values/styles.xml
 

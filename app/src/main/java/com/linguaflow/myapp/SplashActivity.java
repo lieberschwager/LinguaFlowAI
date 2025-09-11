@@ -1,5 +1,6 @@
 package com.linguaflow.myapp;
 
+import android.graphics.Color;
 import android.os.Bundle;
 import android.webkit.WebSettings;
 import android.webkit.WebView;
@@ -14,6 +15,13 @@ public class SplashActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
 
         globeView = new WebView(this);
+
+        // 🔧 Hintergrund transparent setzen
+        globeView.setBackgroundColor(Color.TRANSPARENT);
+
+        // 🔧 Optional: Software-Rendering aktivieren, falls Hardware Probleme macht
+        globeView.setLayerType(WebView.LAYER_TYPE_SOFTWARE, null);
+
         setContentView(globeView);
 
         WebSettings webSettings = globeView.getSettings();
