@@ -5,8 +5,20 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     android:id="@+id/motionLayout"
     android:layout_width="match_parent"
-    android:layout_height="match_parent"
-    motion:layoutDescription="@xml/scene_logo_motion">
+    android:layout_height="match_parent">
+    <!-- motion:layoutDescription="@xml/scene_logo_motion" -->
+
+    <!-- Globus ganz oben -->
+    <WebView
+        android:id="@+id/globeView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@android:color/black"
+        android:visibility="visible"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent" />
 
     <!-- Logo -->
     <ImageView
@@ -33,17 +45,5 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         android:layout_marginTop="16dp" />
-
-    <!-- Globus -->
-    <WebView
-        android:id="@+id/globeView"
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:background="@android:color/black"
-        android:visibility="visible"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintEnd_toEndOf="parent" />
 
 </androidx.constraintlayout.motion.widget.MotionLayout>
