@@ -1,3 +1,9 @@
+## 2025-09-11 15:45
+Branch: main
+Commit vorbereitet mit folgenden Dateien:
+DEVLOG.md
+app/src/main/assets/globe.html
+
 ## 2025-09-11 15:36
 Branch: main
 Commit vorbereitet mit folgenden Dateien:
@@ -7998,6 +8004,11 @@ app/src/main/java/com/linguaflow/myapp/SplashActivity.java
 - app/src/main/res/values/styles.xml
 ## 📅 2025-09-11 – 15:36
 🔖 Commit: *🌐 globe.html bereinigt: Hintergrund transparent, WebGL-Test auskommentiert, Three.js bleibt aktiv*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- app/src/main/assets/globe.html
+## 📅 2025-09-11 – 15:45
+🔖 Commit: *🚀 globe.html repariert: Globus aktiv, WebGL-Test entfernt, Hintergrund transparent*
 📂 Geänderte Dateien:
 - DEVLOG.md
 - app/src/main/assets/globe.html
