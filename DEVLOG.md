@@ -7861,3 +7861,9 @@ Die App ist modular aufgebaut und gliedert sich in folgende Komponenten:
 - app/src/main/res/layout/activity_splash.xml
 - app/src/main/res/layout/activity_start.xml
 
+## 📅 2025-09-11 – 11:07
+🔖 Commit: *🔧 globe.html aktualisiert: WebGL-Check eingebaut*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- app/src/main/assets/globe.html
+
