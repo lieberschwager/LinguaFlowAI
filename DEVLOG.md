@@ -1,3 +1,8 @@
+## 2025-09-11 12:02
+Branch: main
+Commit vorbereitet mit folgenden Dateien:
+DEVLOG.md
+
 # 🧠 DEVLOG – LinguaFlowAI
 
 ## 📅 08.09.2025 – 09:49
@@ -7878,3 +7883,15 @@ Die App ist modular aufgebaut und gliedert sich in folgende Komponenten:
 📂 Geänderte Dateien:
 - DEVLOG.md
 
+## 2025-09-11 11:49
+Geänderte Dateien:
+DEVLOG.md
+app/src/main/AndroidManifest.xml
+app/src/main/java/com/linguaflow/myapp/SplashActivity.java
+
+## 📅 2025-09-11 – 11:49
+🔖 Commit: *Hook-Test: DEVLOG automatisch aktualisieren*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- app/src/main/AndroidManifest.xml
+- app/src/main/java/com/linguaflow/myapp/SplashActivity.java
