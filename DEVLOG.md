@@ -8191,3 +8191,15 @@ app/src/main/java/com/linguaflow/myapp/SplashActivity.java
 - DEVLOG.md
 - app/src/main/assets/globe.html
 
+**2025-09-11 19:57**
+- Branch: main
+- Commit vorbereitet mit folgenden Dateien:
+  - DEVLOG.md
+  - app/src/main/assets/globe.html
+
+## 📅 2025-09-11 – 19:57
+🔖 Commit: *🎯 Globe-Größe auf 1.8 gesetzt (10% Schrumpfung)*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- app/src/main/assets/globe.html
+

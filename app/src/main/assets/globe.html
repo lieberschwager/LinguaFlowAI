@@ -31,7 +31,7 @@
     const earthTexture = textureLoader.load('textures/earth-dark.jpg');
     const bumpMap = textureLoader.load('textures/earth-bump.jpg');
 
-    const geometry = new THREE.SphereGeometry(1.9, 64, 64); // ← 10 % kleiner
+    const geometry = new THREE.SphereGeometry(1.6, 64, 64); // ← 10 % kleiner
     const material = new THREE.MeshStandardMaterial({
       map: earthTexture,
       bumpMap: bumpMap,
