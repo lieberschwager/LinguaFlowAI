@@ -8155,3 +8155,15 @@ app/src/main/java/com/linguaflow/myapp/SplashActivity.java
 - app/src/main/java/com/linguaflow/myapp/SplashActivity.java
 - app/src/main/res/layout/activity_start.xml
 
+**2025-09-11 19:06**
+- Branch: main
+- Commit vorbereitet mit folgenden Dateien:
+  - DEVLOG.md
+  - app/src/main/res/layout/activity_start.xml
+
+## 📅 2025-09-11 – 19:06
+🔖 Commit: *🔥 Fix: Prolog-Fehler behoben + SplashActivity & Layout aktualisiert*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- app/src/main/res/layout/activity_start.xml
+
