@@ -30,10 +30,11 @@
     document.body.appendChild(renderer.domElement);
 
     const textureLoader = new THREE.TextureLoader();
-    const earthTexture = textureLoader.load('textures/earth-dark.jpg');
-    const bumpMap = textureLoader.load('textures/earth-bump.jpg');
 
-    const geometry = new THREE.SphereGeometry(1.8, 64, 64); // 10 % kleiner
+    const earthTexture = textureLoader.load('https://raw.githubusercontent.com/roblabs/earth-globe-threejs/main/textures/earth-dark.jpg');
+    const bumpMap = textureLoader.load('https://raw.githubusercontent.com/roblabs/earth-globe-threejs/main/textures/earth-bump.jpg');
+
+    const geometry = new THREE.SphereGeometry(1.8, 64, 64);
     const material = new THREE.MeshStandardMaterial({
       map: earthTexture,
       bumpMap: bumpMap,
@@ -43,8 +44,8 @@
     const globe = new THREE.Mesh(geometry, material);
     scene.add(globe);
 
-    const light = new THREE.PointLight(0xffffff, 2); // stärkeres Licht
-    light.position.set(0, 0, 5); // direkt auf den Globe
+    const light = new THREE.PointLight(0xffffff, 2);
+    light.position.set(0, 0, 5);
     scene.add(light);
 
     camera.position.z = 5;

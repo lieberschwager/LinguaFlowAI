@@ -8239,3 +8239,15 @@ app/src/main/java/com/linguaflow/myapp/SplashActivity.java
 - DEVLOG.md
 - app/src/main/assets/globe.html
 
+**2025-09-11 21:08**
+- Branch: main
+- Commit vorbereitet mit folgenden Dateien:
+  - DEVLOG.md
+  - app/src/main/assets/globe.html
+
+## 📅 2025-09-11 – 21:08
+🔖 Commit: *🌍 Globe-Fix: Neue Three.js + korrekte Texturdarstellung*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- app/src/main/assets/globe.html
+
