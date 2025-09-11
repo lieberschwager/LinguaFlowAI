@@ -1,4 +1,4 @@
-package com.linguaflowai;
+package com.linguaflow.myapp;
 
 import android.os.Bundle;
 import android.webkit.WebSettings;
