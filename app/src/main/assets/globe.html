@@ -7,83 +7,51 @@
     body {
       margin: 0;
       overflow: hidden;
-      background-color: transparent; /* Schwarz entfernt */
-      color: #0f0;
+      background-color: transparent;
       font-family: sans-serif;
     }
     canvas {
       display: block;
     }
-    #status {
-      position: absolute;
-      top: 40%;
-      width: 100%;
-      text-align: center;
-      font-size: 1.5em;
-    }
   </style>
 </head>
 <body>
-  <div id="status">Checking WebGL support...</div>
 
-  <!-- Three.js bleibt aktiv -->
   <script src="three.min.js"></script>
-
-  <!-- Szene & WebGL-Test auskommentiert -->
-  <!--
   <script>
-    function isWebGLAvailable() {
-      try {
-        const canvas = document.createElement("canvas");
-        return !!(window.WebGLRenderingContext && (
-          canvas.getContext("webgl") || canvas.getContext("experimental-webgl")
-        ));
-      } catch (e) {
-        return false;
-      }
+    const scene = new THREE.Scene();
+    const camera = new THREE.PerspectiveCamera(75, window.innerWidth / window.innerHeight, 0.1, 1000);
+    const renderer = new THREE.WebGLRenderer({ antialias: true, alpha: true });
+    renderer.setSize(window.innerWidth, window.innerHeight);
+    document.body.appendChild(renderer.domElement);
+
+    const textureLoader = new THREE.TextureLoader();
+    const earthTexture = textureLoader.load('textures/earth-dark.jpg');
+    const bumpMap = textureLoader.load('textures/earth-bump.jpg');
+
+    const geometry = new THREE.SphereGeometry(2, 64, 64);
+    const material = new THREE.MeshStandardMaterial({
+      map: earthTexture,
+      bumpMap: bumpMap,
+      bumpScale: 0.05
+    });
+
+    const globe = new THREE.Mesh(geometry, material);
+    scene.add(globe);
+
+    const light = new THREE.PointLight(0xffffff, 1);
+    light.position.set(5, 5, 5);
+    scene.add(light);
+
+    camera.position.z = 5;
+
+    function animate() {
+      requestAnimationFrame(animate);
+      globe.rotation.y += 0.003;
+      renderer.render(scene, camera);
     }
 
-    if (!isWebGLAvailable()) {
-      document.getElementById("status").innerText = "❌ WebGL not supported or blocked.";
-    } else {
-      document.getElementById("status").style.display = "none";
-
-      const scene = new THREE.Scene();
-      const camera = new THREE.PerspectiveCamera(75, window.innerWidth/window.innerHeight, 0.1, 1000);
-      const renderer = new THREE.WebGLRenderer({ antialias: true });
-      renderer.setSize(window.innerWidth, window.innerHeight);
-      document.body.appendChild(renderer.domElement);
-
-      const textureLoader = new THREE.TextureLoader();
-      const earthTexture = textureLoader.load('textures/earth-dark.jpg');
-      const bumpMap = textureLoader.load('textures/earth-bump.jpg');
-
-      const geometry = new THREE.SphereGeometry(2, 64, 64);
-      const material = new THREE.MeshStandardMaterial({
-        map: earthTexture,
-        bumpMap: bumpMap,
-        bumpScale: 0.05
-      });
-
-      const globe = new THREE.Mesh(geometry, material);
-      scene.add(globe);
-
-      const light = new THREE.PointLight(0xffffff, 1);
-      light.position.set(5, 5, 5);
-      scene.add(light);
-
-      camera.position.z = 5;
-
-      function animate() {
-        requestAnimationFrame(animate);
-        globe.rotation.y += 0.003;
-        renderer.render(scene, camera);
-      }
-
-      animate();
-    }
+    animate();
   </script>
-  -->
-
 </body>
 </html>
