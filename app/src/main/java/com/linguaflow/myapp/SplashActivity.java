@@ -16,11 +16,11 @@ public class SplashActivity extends AppCompatActivity {
 
         globeView = new WebView(this);
 
-        // 🔧 Hintergrund transparent setzen
+        // Hintergrund transparent setzen
         globeView.setBackgroundColor(Color.TRANSPARENT);
 
-        // 🔧 Optional: Software-Rendering aktivieren, falls Hardware Probleme macht
-        globeView.setLayerType(WebView.LAYER_TYPE_SOFTWARE, null);
+        // LayerType NICHT setzen – hat Darstellung zerstört
+        // globeView.setLayerType(WebView.LAYER_TYPE_SOFTWARE, null); ← entfernt!
 
         setContentView(globeView);
 
