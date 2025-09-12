@@ -8263,3 +8263,19 @@ app/src/main/java/com/linguaflow/myapp/SplashActivity.java
 - DEVLOG.md
 - app/src/main/assets/globe.html
 
+**2025-09-12 08:54**
+- Branch: main
+- Commit vorbereitet mit folgenden Dateien:
+  - DEVLOG.md
+  - app/src/main/assets/textures/earth_clouds_v2.jpg
+  - app/src/main/assets/textures/earth_day_v2.jpg
+  - app/src/main/assets/textures/earth_night_v2.jpg
+
+## 📅 2025-09-12 – 08:54
+🔖 Commit: *Add Earth textures v2: day, night, clouds*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- app/src/main/assets/textures/earth_clouds_v2.jpg
+- app/src/main/assets/textures/earth_day_v2.jpg
+- app/src/main/assets/textures/earth_night_v2.jpg
+
