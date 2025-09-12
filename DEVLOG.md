@@ -1,3 +1,17 @@
+## 12. September 2025 – Terminal-Setup & Klarheit
+
+- Acode-Terminal als verwirrend erkannt → künftig ignorieren, da nicht mit Termux verknüpft
+- `.bashrc` korrekt im Termux-Heimverzeichnis erstellt, da vorherige Version im falschen Kontext lag
+- Begrüßung und Aliase hinzugefügt:
+  - `proj` → Projektordner öffnen
+  - `webflow` → Webserver starten
+  - `gitpush` → Git push ausführen
+  - `syncflow` → Projekt synchronisieren
+- `flow.sh` getestet → verworfen, da `cd` im Subprozess keine Wirkung auf aktives Terminal hat
+- Menü direkt in `.bashrc` eingebaut → erscheint automatisch beim Start von Termux
+- Erkenntnis: DEVLOG muss manuell gepflegt werden, da Commit-Text nicht ausreicht
+- Idee: Chat-Inhalte regelmäßig als Markdown-Zusammenfassung exportieren und einfügen
+
 ## 2025-09-11 17:52
 Branch: main
 Commit vorbereitet mit folgenden Dateien:

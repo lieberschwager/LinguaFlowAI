@@ -1,0 +1,15 @@
+::1 - - [12/Sep/2025 23:06:06] "GET / HTTP/1.1" 200 -
+::1 - - [12/Sep/2025 23:06:06] code 404, message File not found
+::1 - - [12/Sep/2025 23:06:06] "GET /favicon.ico HTTP/1.1" 404 -
+::1 - - [12/Sep/2025 23:06:18] "GET /globe.html HTTP/1.1" 200 -
+::1 - - [12/Sep/2025 23:06:18] "GET /globe.js HTTP/1.1" 200 -
+::1 - - [12/Sep/2025 23:26:42] "GET /globe.html HTTP/1.1" 304 -
+::1 - - [12/Sep/2025 23:26:42] "GET /globe.js HTTP/1.1" 200 -
+::1 - - [12/Sep/2025 23:29:20] "GET /globe.html HTTP/1.1" 304 -
+::1 - - [12/Sep/2025 23:29:20] "GET /globe.js HTTP/1.1" 200 -
+::1 - - [12/Sep/2025 23:30:19] "GET /globe.html HTTP/1.1" 200 -
+::1 - - [12/Sep/2025 23:30:19] "GET /globe.js HTTP/1.1" 304 -
+::1 - - [13/Sep/2025 00:06:16] "GET /globe.html HTTP/1.1" 304 -
+::1 - - [13/Sep/2025 00:06:16] "GET /globe.js HTTP/1.1" 200 -
+::1 - - [13/Sep/2025 00:48:31] "GET /globe.html HTTP/1.1" 304 -
+::1 - - [13/Sep/2025 00:48:31] "GET /globe.js HTTP/1.1" 200 -
