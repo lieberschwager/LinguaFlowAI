@@ -8251,3 +8251,15 @@ app/src/main/java/com/linguaflow/myapp/SplashActivity.java
 - DEVLOG.md
 - app/src/main/assets/globe.html
 
+**2025-09-11 21:24**
+- Branch: main
+- Commit vorbereitet mit folgenden Dateien:
+  - DEVLOG.md
+  - app/src/main/assets/globe.html
+
+## 📅 2025-09-11 – 21:24
+🔖 Commit: *🌐 Globe mit Online-Texturen eingebaut (Debug-Version gegen schwarzen Fleck)*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- app/src/main/assets/globe.html
+
