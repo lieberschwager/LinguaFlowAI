@@ -8289,3 +8289,15 @@ app/src/main/java/com/linguaflow/myapp/SplashActivity.java
 📂 Geänderte Dateien:
 - DEVLOG.md
 
+**2025-09-12 09:34**
+- Branch: main
+- Commit vorbereitet mit folgenden Dateien:
+  - DEVLOG.md
+  - app/src/main/globe.js
+
+## 📅 2025-09-12 – 09:34
+🔖 Commit: *Move globe.js from assets to main directory*
+📂 Geänderte Dateien:
+- DEVLOG.md
+- app/src/main/globe.js
+
