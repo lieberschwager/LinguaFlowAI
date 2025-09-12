@@ -8279,3 +8279,13 @@ app/src/main/java/com/linguaflow/myapp/SplashActivity.java
 - app/src/main/assets/textures/earth_day_v2.jpg
 - app/src/main/assets/textures/earth_night_v2.jpg
 
+**2025-09-12 09:20**
+- Branch: main
+- Commit vorbereitet mit folgenden Dateien:
+  - DEVLOG.md
+
+## 📅 2025-09-12 – 09:20
+🔖 Commit: *Add globe.html and globe.js for dynamic Earth visualization*
+📂 Geänderte Dateien:
+- DEVLOG.md
+
